@@ -24,3 +24,4 @@ cx330o-crm/core/
 ```bash
 docker compose up -d
 ```
+
