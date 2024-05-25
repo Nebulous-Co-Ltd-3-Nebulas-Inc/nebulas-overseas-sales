@@ -226,3 +226,4 @@ Extended ERP and HR capabilities: Dolibarr, ERPNext, Frappe, HRMS.
 | :8080 | Marketing Gateway | marketing |
 | :8180 | Hyperswitch Payment API | payments |
 | :9050 | Hyperswitch Web SDK | payments |
+
