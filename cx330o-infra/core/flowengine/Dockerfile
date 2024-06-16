@@ -12,3 +12,4 @@ RUN PWFILE=$(find / -name 'password.schema.js' -path '*api-types*' 2>/dev/null |
 
 USER node
 
+
