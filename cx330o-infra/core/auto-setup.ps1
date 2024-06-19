@@ -87,3 +87,4 @@ Write-Host "`n===== Setup Complete =====" -ForegroundColor Cyan
 Write-Host "  FlowEngine: http://localhost:5678   (admin@cx330o.com / cx330o2026)" -ForegroundColor White
 Write-Host "  Analytics:  http://localhost:3030   (admin@cx330o.com / cx330o2026)" -ForegroundColor White
 Write-Host ""
+
