@@ -8,3 +8,4 @@
 
 {!! strip_tags($footer) !!}
 
+
