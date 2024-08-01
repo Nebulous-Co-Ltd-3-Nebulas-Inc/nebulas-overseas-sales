@@ -802,3 +802,4 @@ fixedpage should be redirected to the organization page if the user is clicking 
 * #84 [fixed] - Issue with user access
 
 * #111 [fixed] - Fetch custom attribute types from config file
+
