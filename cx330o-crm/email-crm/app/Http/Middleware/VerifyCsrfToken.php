@@ -16,3 +16,4 @@ class VerifyCsrfToken extends Middleware
         'admin/web-forms/forms/*'
     ];
 }
+
