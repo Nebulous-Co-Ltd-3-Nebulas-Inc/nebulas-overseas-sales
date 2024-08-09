@@ -232,3 +232,4 @@ return [
         QueryRecorder::class
     ]
 ];
+
