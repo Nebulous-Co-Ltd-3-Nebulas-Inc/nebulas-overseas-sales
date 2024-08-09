@@ -26,3 +26,4 @@ Built with Laravel (PHP). Parses incoming emails and syncs extracted contact dat
 ## License
 
 MIT — See root LICENSE file.
+
