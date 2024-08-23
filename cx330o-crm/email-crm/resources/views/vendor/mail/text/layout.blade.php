@@ -9,3 +9,4 @@
 {!! strip_tags($footer) !!}
 
 
+
