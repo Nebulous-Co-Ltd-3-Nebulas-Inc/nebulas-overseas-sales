@@ -26,3 +26,4 @@
 </x-slot:footer>
 </x-mail::layout>
 
+
