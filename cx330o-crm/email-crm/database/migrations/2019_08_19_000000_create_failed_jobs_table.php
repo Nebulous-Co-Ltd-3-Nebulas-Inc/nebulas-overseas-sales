@@ -35,3 +35,4 @@ class CreateFailedJobsTable extends Migration
     }
 }
 
+
