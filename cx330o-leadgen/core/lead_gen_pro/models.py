@@ -68,3 +68,4 @@ class ScrapeConfig(BaseModel):
     max_retries: int = 3
     proxy: Optional[str] = None
     user_agent: Optional[str] = None
+
