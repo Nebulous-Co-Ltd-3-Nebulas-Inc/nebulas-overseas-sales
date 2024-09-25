@@ -27,3 +27,4 @@ streamlit run app/main.py
 ## License
 
 MIT — See root LICENSE file.
+
