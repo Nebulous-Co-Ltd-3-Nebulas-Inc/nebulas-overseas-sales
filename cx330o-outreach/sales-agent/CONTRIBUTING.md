@@ -98,3 +98,4 @@ Running tests is essential for ensuring the integrity and functionality of the c
 ## Conclusion
 
 You now have a complete setup for developing the project, including dependency management and testing. Always activate the virtual environment before working on the project.
+
