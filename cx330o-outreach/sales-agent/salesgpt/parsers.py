@@ -31,3 +31,4 @@ class SalesConvoOutputParser(AgentOutputParser):
     @property
     def _type(self) -> str:
         return "sales-agent"
+
