@@ -28,3 +28,4 @@ python -m lead_gen_pro --source google_maps --query "restaurants" --location "Ne
 | YelpEngine | Business info | Search result extraction |
 | OSINTEngine | Emails/domains/subdomains | Multi-source intelligence gathering |
 | AIEnricher | AI enrichment | LLM-powered analysis and personalization |
+
