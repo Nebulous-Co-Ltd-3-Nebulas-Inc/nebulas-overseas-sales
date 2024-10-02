@@ -101,3 +101,4 @@ class OutreachPipeline:
         logger.info(f"   Emails sent: {self.results['sent']}")
 
         return processed
+
