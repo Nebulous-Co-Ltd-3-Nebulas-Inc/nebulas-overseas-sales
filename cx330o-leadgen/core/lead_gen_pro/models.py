@@ -70,3 +70,4 @@ class ScrapeConfig(BaseModel):
     user_agent: Optional[str] = None
 
 
+
