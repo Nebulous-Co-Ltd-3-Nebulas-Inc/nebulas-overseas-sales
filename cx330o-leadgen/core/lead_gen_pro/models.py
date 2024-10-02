@@ -69,3 +69,4 @@ class ScrapeConfig(BaseModel):
     proxy: Optional[str] = None
     user_agent: Optional[str] = None
 
+
