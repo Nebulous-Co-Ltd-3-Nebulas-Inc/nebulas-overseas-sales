@@ -118,3 +118,4 @@ class OutputManager:
 
         except Exception as e:
             logger.error(f"Google Sheets export error: {e}")
+
