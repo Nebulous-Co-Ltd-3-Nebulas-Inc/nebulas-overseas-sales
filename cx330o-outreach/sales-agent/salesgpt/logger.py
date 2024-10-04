@@ -50,3 +50,4 @@ def time_logger(func):
         return result
 
     return wrapper
+
