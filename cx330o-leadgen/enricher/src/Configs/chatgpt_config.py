@@ -5,3 +5,4 @@ load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 print("[LOG] - INITIALIZED OPENAI API")
+
