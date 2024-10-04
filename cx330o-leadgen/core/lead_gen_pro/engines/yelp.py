@@ -104,3 +104,4 @@ class YelpEngine(BaseEngine):
                 logger.debug(f"Error parsing Yelp result: {e}")
 
         return leads
+
