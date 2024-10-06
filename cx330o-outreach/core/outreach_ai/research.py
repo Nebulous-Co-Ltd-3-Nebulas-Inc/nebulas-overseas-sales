@@ -92,3 +92,4 @@ Provide:
         "company_profile": lead.company_profile,
     })
     return Report(title=f"Research Report: {lead.name}", content=result.content, is_markdown=True)
+
