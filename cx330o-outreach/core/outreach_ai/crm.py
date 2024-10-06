@@ -127,3 +127,4 @@ def get_crm(source: str, **kwargs) -> CRMBase:
         return GoogleSheetsLoader(kwargs.get("spreadsheet_id"))
     else:
         raise ValueError(f"Unsupported CRM source: {source}")
+
