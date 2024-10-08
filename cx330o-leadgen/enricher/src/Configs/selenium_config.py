@@ -24,3 +24,4 @@ def __initialize():
     return webdriver.Chrome(
     '../assets/chromedriver.exe', chrome_options=chrome_options)
 driver = __initialize()
+
