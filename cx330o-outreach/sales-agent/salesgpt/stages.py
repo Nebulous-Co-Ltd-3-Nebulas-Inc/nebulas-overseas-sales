@@ -11,3 +11,4 @@ CONVERSATION_STAGES = {
     "7": "Close: Ask for the sale by proposing a next step. This could be a demo, a trial or a meeting with decision-makers. Ensure to summarize what has been discussed and reiterate the benefits.",
     "8": "End conversation: It's time to end the call as there is nothing else to be said.",
 }
+
