@@ -55,3 +55,4 @@ class Emails:
                      print(F'[LOG] - PERSONALIZED EMAIL: FAILED')
                      print(error)
                      store.update_personalized_email_status(rows[0],"FAILED")
+
