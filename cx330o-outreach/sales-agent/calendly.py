@@ -55,3 +55,4 @@ def generate_calendly_invitation_link(query):
 print(generate_calendly_invitation_link('test'))
 
 
+
