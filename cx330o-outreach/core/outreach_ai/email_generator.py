@@ -114,3 +114,4 @@ Generate:
     })
     lead.interview_script = result.content
     return result.content
+
