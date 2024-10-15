@@ -101,3 +101,4 @@ class EmailSender:
         logger.info(f"📧 Batch complete: {results}")
         return results
 
+
