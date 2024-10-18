@@ -94,3 +94,4 @@ Provide:
     return Report(title=f"Research Report: {lead.name}", content=result.content, is_markdown=True)
 
 
+
