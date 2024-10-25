@@ -77,3 +77,4 @@ class Store:
             print(f'[LOG] - DUPLICATE ROWS REMOVED\nRESPONSE: {response}')
         except Exception as error:
             print(f'[LOG] - Error removing duplicates: {error}')
+
