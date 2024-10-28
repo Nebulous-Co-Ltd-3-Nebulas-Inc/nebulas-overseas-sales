@@ -182,3 +182,4 @@ class SalesGPTAPI:
                     yield message
                 else:
                     continue
+
