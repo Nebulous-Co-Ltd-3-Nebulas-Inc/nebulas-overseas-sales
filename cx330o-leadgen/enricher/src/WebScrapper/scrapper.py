@@ -130,3 +130,4 @@ class ScrapeDetails:
             print(error)
             return "null"
 
+
