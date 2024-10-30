@@ -56,3 +56,4 @@ class Emails:
                      print(error)
                      store.update_personalized_email_status(rows[0],"FAILED")
 
+
