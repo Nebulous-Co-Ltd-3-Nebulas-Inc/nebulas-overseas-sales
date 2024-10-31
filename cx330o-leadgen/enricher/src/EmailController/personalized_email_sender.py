@@ -57,3 +57,4 @@ class Emails:
                      store.update_personalized_email_status(rows[0],"FAILED")
 
 
+
