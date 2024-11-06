@@ -64,3 +64,4 @@ Return JSON: {{"score": <number>, "qualified": <true/false>, "reason": "<brief e
         lead.status = "qualified"  # 默认通过
 
     return lead
+
