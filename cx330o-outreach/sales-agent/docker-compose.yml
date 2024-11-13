@@ -31,3 +31,4 @@ services:
       - "8000:8000"
     # Removed the ports section from backend as it is not allowed in build context
 
+
