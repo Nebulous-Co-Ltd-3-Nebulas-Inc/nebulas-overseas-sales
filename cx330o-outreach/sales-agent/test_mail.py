@@ -43,3 +43,4 @@ body = "This is a test email sent from the Python script without using LLM."
 # Send the test email
 result = send_simple_email(recipient_email, subject, body)
 print(result)
+
