@@ -178,3 +178,4 @@ const deleteDataTable = async () => {
 		/>
 	</div>
 </template>
+
