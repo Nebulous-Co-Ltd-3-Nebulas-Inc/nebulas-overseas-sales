@@ -23,3 +23,4 @@ onMounted(() => {
 	<Chat v-if="isFullscreen" class="n8n-chat" />
 	<ChatWindow v-else class="n8n-chat" />
 </template>
+
