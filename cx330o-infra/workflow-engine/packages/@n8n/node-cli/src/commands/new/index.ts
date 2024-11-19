@@ -189,3 +189,4 @@ export default class New extends Command {
 		outro(`Created ./${nodeName} ✨`);
 	}
 }
+
