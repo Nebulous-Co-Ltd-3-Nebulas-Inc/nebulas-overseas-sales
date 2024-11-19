@@ -371,3 +371,4 @@ test('should preserve versionMetadata from JSON file when importing', async () =
 	expect(workflowHistoryRecords[0].name).toBe('Historical Version Name');
 	expect(workflowHistoryRecords[0].description).toBe('Historical version description');
 });
+
