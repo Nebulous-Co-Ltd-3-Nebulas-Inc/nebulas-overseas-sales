@@ -131,3 +131,4 @@ describe('checkMaxIterations', () => {
 		}).not.toThrow();
 	});
 });
+
