@@ -443,3 +443,4 @@ export class Emelia implements INodeType {
 		return [returnData];
 	}
 }
+
