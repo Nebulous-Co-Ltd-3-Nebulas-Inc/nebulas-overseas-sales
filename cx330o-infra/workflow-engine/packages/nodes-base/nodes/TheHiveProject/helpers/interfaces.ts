@@ -8,3 +8,4 @@ export const TLPs = {
 export type TLP = (typeof TLPs)[keyof typeof TLPs];
 
 export type QueryScope = { query: string; id?: string; restrictTo?: string };
+
