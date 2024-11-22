@@ -112,3 +112,4 @@ describe('N8nCollapsiblePanel', () => {
 		expect(screen.getByText('Slot Content')).toBeInTheDocument();
 	});
 });
+
