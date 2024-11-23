@@ -619,3 +619,4 @@ export class PrometheusMetricsService {
 		});
 	}
 }
+
