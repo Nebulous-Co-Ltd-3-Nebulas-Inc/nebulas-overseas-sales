@@ -436,3 +436,4 @@ export class RetrieverWorkflow implements INodeType {
 		};
 	}
 }
+
