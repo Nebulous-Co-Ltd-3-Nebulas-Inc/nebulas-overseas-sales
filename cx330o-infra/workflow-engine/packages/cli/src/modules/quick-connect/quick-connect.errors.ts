@@ -12,3 +12,4 @@ export class QuickConnectError extends OperationalError {
 		super(message, { cause, extra: { credentialType } });
 	}
 }
+
