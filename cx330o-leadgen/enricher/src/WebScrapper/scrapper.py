@@ -131,3 +131,4 @@ class ScrapeDetails:
             return "null"
 
 
+
