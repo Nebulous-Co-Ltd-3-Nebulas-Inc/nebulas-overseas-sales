@@ -180,3 +180,4 @@ describe('calculateTimeSaved', () => {
 		expect(timeSaved).toBe(20);
 	});
 });
+
