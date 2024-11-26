@@ -54,3 +54,4 @@ export const description: INodeProperties[] = [
 	...getAll.description,
 	...update.description,
 ];
+
