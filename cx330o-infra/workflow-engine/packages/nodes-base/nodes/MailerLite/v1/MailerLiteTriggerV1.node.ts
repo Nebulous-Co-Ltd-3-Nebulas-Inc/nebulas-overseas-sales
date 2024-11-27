@@ -182,3 +182,4 @@ export class MailerLiteTriggerV1 implements INodeType {
 		};
 	}
 }
+
