@@ -34,3 +34,4 @@ export const TEMPLATES_URLS = {
 		utm_medium: 'template_library',
 	},
 };
+
