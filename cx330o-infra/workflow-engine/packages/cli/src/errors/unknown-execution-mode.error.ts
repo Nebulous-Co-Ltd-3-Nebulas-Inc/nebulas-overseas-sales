@@ -5,3 +5,4 @@ export class UnknownExecutionModeError extends UnexpectedError {
 		super('Unknown execution mode', { extra: { mode } });
 	}
 }
+
