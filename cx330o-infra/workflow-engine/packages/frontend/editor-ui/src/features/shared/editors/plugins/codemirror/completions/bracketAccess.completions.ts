@@ -78,3 +78,4 @@ function bracketAccessOptions(resolved: object) {
 			};
 		});
 }
+
