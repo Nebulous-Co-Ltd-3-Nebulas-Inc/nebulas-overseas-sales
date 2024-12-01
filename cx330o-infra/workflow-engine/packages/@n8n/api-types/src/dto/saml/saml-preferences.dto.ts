@@ -62,3 +62,4 @@ export class SamlPreferences extends Z.class({
 
 	relayState: z.string().default(''),
 }) {}
+
