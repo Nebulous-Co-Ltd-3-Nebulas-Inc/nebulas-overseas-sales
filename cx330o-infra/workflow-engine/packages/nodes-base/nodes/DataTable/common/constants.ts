@@ -17,3 +17,4 @@ export type FieldEntry =
 			condition?: 'eq' | 'neq' | 'like' | 'ilike' | 'gt' | 'gte' | 'lt' | 'lte';
 			keyValue: DataTableColumnJsType;
 	  };
+
