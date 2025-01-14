@@ -112,3 +112,4 @@ class ScreenShotter:
                 await context.close()
                 await browser.close()
                 print(date, url, path)
+
