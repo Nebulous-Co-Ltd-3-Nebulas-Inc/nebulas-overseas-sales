@@ -67,3 +67,4 @@ class SearchSubdomainfinderc99:
                 continue
 
         return csrf_params
+
