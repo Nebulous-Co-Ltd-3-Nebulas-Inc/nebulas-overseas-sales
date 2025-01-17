@@ -14,3 +14,4 @@ urlpatterns = [
     path('email/verification-alert/', verification_alert, name='verification-alert'),
 
 ]
+
