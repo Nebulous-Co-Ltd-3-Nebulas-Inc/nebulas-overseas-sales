@@ -24,3 +24,4 @@ class SubdomainCenter:
     async def process(self, proxy=False):
         self.proxy = proxy
         await self.do_search()
+
