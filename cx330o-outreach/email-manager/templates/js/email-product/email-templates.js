@@ -10,3 +10,4 @@ function onDeleteTemplate(url, name){
     // deleteModal.show()
     model.classList.remove("!tw-hidden")
 }
+
