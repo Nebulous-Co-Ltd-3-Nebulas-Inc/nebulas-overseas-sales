@@ -31,3 +31,4 @@ class Migration(migrations.Migration):
             field=models.TextField(blank=True, max_length=2000, null=True),
         ),
     ]
+
