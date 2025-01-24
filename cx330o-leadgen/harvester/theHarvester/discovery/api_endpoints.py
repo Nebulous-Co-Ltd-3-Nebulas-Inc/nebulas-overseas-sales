@@ -834,3 +834,4 @@ class SearchApiEndpoints:
             return json.dumps(results, indent=2)
         else:
             return results
+
