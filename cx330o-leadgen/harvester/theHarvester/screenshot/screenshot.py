@@ -113,3 +113,4 @@ class ScreenShotter:
                 await browser.close()
                 print(date, url, path)
 
+
