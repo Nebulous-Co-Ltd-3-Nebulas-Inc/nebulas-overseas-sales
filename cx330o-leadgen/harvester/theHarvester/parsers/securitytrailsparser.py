@@ -113,3 +113,4 @@ class Parser:
                 else:
                     self.hostnames.add(str(line).replace('"', '').replace(',', '') + '.' + base_domain)
         return self.ips, self.hostnames
+
