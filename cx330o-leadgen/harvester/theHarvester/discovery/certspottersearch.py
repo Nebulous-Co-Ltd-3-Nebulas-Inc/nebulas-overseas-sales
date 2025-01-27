@@ -39,3 +39,4 @@ class SearchCertspoter:
         self.proxy = proxy
         await self.do_search()
         print('\tSearching results.')
+
