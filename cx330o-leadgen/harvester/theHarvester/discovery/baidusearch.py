@@ -30,3 +30,4 @@ class SearchBaidu:
     async def get_hostnames(self):
         rawres = myparser.Parser(self.total_results, self.word)
         return await rawres.hostnames()
+
