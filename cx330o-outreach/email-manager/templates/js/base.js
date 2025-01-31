@@ -38,3 +38,4 @@ function togglePasswordVisibility(toggleButton, inputElement) {
       toggleButton.innerHTML = '<i class="bi bi-eye-slash"></i>';
     }
 }
+
