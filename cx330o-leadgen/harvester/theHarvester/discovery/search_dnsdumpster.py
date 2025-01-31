@@ -49,3 +49,4 @@ class SearchDNSDumpster:
 
     async def get_ips(self) -> set:
         return self.ips
+
