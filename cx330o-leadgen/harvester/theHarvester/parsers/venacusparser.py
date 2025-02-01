@@ -112,3 +112,4 @@ class Parser:
             self.parsed_data['people'] = self.people  # type: ignore
 
         return self.parsed_data
+
