@@ -117,3 +117,4 @@ class Parser:
     async def unique(self) -> list:
         return list(set(self.temp))
 
+
