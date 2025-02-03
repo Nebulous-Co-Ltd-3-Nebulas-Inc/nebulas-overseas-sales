@@ -125,3 +125,4 @@ class SearchFofa:
         self.proxy = proxy
         await self.do_search()
 
+
