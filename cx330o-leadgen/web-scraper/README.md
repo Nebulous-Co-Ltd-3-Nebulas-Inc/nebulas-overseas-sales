@@ -32,3 +32,4 @@ asyncio.run(main())
 ## License
 
 MIT — See root LICENSE file.
+
