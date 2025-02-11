@@ -24,3 +24,4 @@ class Parser:
                     self.hosts.add(field.replace(')', '').replace(',', ''))
             return self.emails, self.hosts
         return None, None
+
