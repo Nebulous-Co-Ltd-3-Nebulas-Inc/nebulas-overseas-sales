@@ -19,3 +19,4 @@ docker compose --profile voip up -d
 
 - `:87` → MiroTalk 视频会议
 - `:5001` → Bolna AI 语音 Agent API
+
