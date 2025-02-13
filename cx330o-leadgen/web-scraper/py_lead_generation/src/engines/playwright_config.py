@@ -22,3 +22,4 @@ class PlaywrightEngineConfig:
         chromium: BrowserType = self.playwright.chromium
         self.browser: Browser = await chromium.launch(**self.BROWSER_PARAMS)
         self.page: Page = await self.browser.new_page(**self.PAGE_PARAMS)
+
