@@ -11,3 +11,4 @@ function onDeleteTemplate(url, name){
     model.classList.remove("!tw-hidden")
 }
 
+
