@@ -26,3 +26,4 @@ urlpatterns = [
 
     path('<int:id>/view-mail/', detailed_template_view, name='detailed-template-view')
 ]
+
