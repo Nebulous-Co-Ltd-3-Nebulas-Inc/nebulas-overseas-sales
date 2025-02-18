@@ -14,3 +14,4 @@ colorama
 python-dotenv
 bs4
 unstructured
+
