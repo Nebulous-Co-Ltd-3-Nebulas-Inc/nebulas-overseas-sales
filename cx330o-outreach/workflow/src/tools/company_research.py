@@ -57,3 +57,4 @@ def generate_company_profile(company_linkedin_info, scraped_website):
         model="gemini-1.5-flash"
     )
     return profile_summary
+
