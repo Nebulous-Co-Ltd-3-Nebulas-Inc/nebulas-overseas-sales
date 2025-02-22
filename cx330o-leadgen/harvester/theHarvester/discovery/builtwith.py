@@ -88,3 +88,4 @@ class SearchBuiltWith:
 
     async def get_analytics(self) -> set[str]:
         return self.analytics
+
