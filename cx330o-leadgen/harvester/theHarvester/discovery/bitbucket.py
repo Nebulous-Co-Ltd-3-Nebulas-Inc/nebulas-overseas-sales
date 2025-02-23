@@ -163,3 +163,4 @@ class SearchBitBucket:
         except (AttributeError, TypeError, re.error) as e:
             print(f'Error getting hostnames: {e}')
             return []
+
