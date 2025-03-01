@@ -412,3 +412,4 @@ class StashManager:
             print(f"Database error occurred for domain '{domain}': {db_err}")
         except Exception as e:
             print(f"Unexpected error in latestscanchartdata for domain '{domain}': {e}")
+
