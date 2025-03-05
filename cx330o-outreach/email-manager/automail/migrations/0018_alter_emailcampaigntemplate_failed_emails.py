@@ -16,3 +16,4 @@ class Migration(migrations.Migration):
             field=models.TextField(blank=True, default='', max_length=4000, null=True),
         ),
     ]
+
