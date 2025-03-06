@@ -113,3 +113,4 @@ class SearchShodan:
             self.tracker[ip] = f'Error occurred in the Shodan IP search module: {e}'
 
         return self.tracker
+
