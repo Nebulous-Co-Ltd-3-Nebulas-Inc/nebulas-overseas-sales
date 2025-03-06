@@ -57,3 +57,4 @@ def is_valid_mail(email: str):
     
     return validated_email.normalized.lower()
 
+
