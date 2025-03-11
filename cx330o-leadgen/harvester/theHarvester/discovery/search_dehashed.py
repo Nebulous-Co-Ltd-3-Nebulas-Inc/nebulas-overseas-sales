@@ -111,3 +111,4 @@ class SearchDehashed:
             if entry.get('ip_address'):
                 ips.add(entry['ip_address'])
         return ips
+
