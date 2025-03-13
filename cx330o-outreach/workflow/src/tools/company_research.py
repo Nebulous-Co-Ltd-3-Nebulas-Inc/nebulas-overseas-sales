@@ -58,3 +58,4 @@ def generate_company_profile(company_linkedin_info, scraped_website):
     )
     return profile_summary
 
+
