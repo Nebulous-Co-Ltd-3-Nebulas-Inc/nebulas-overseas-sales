@@ -448,3 +448,4 @@ class SearchFullHunt:
             self.add_filters(filters)
 
         await self.do_search()
+
