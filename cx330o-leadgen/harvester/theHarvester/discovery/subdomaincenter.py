@@ -25,3 +25,4 @@ class SubdomainCenter:
         self.proxy = proxy
         await self.do_search()
 
+
