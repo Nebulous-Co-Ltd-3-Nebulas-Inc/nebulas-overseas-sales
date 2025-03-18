@@ -332,3 +332,4 @@ class SearchCriminalIP:
     async def process(self, proxy: bool = False) -> None:
         self.proxy = proxy
         await self.do_search()
+
