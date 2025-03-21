@@ -58,3 +58,4 @@ class SearchHunterHow:
         self.proxy = proxy
         await self.do_search()
 
+
