@@ -131,3 +131,4 @@ def get_youtube_stats(channel_url):
     {last_15_videos_str}
     """
     return youtube_data
+
