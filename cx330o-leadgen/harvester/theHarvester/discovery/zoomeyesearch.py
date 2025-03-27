@@ -381,3 +381,4 @@ class SearchZoomEye:
 
     async def get_interestingurls(self):
         return set(self.interestingurls)
+
