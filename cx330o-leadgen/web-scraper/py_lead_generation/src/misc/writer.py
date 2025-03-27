@@ -39,3 +39,4 @@ class CsvWriter:
             writer = csv.DictWriter(f, fieldnames=self.fieldnames)
             for d in data:
                 writer.writerow(d)
+
