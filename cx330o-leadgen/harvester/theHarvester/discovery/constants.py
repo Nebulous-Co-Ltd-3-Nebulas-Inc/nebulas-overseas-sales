@@ -125,3 +125,4 @@ class MissingKeyError(Exception):
 
 # Backward compatibility: keep old name for external imports
 MissingKey = MissingKeyError
+
