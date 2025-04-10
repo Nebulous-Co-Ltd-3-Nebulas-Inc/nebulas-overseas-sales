@@ -167,3 +167,4 @@ class SearchGithubCode:
         except Exception as e:
             print(f'Error getting hostnames: {e}')
             return []
+
