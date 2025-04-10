@@ -86,3 +86,4 @@ class SearchHunter:
     async def get_hostnames(self):
         return self.hostnames
 
+
