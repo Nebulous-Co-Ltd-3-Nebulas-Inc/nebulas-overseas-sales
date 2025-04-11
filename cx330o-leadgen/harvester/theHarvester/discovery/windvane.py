@@ -340,3 +340,4 @@ class SearchWindvane:
         # API key is already set via _get_api_key() method
 
         await self.do_search()
+
