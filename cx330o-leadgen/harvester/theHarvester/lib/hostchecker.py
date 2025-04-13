@@ -86,3 +86,4 @@ class Checker:
         all_results_list: list[str] = sorted(all_results)
         return all_results_list, self.realhosts, addresses_list
 
+
