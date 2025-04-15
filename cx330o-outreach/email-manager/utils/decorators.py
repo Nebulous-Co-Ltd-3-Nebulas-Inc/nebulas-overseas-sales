@@ -23,3 +23,4 @@ def login_required_rest_api(function, login_url=settings.LOGIN_URL):
         return function(request, *args, **kwargs)
 
     return wrapper_func
+
