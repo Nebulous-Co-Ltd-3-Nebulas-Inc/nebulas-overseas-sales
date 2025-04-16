@@ -413,3 +413,4 @@ class StashManager:
         except Exception as e:
             print(f"Unexpected error in latestscanchartdata for domain '{domain}': {e}")
 
+
