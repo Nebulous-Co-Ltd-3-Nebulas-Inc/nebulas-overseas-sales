@@ -64,3 +64,4 @@ class EmailCampaignTemplatedmin(admin.ModelAdmin):
 class BlackListDomainAdmin(admin.ModelAdmin):
 
     list_display = ['id', 'domain']
+
