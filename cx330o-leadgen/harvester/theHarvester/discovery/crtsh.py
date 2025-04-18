@@ -35,3 +35,4 @@ class SearchCrtsh:
 
     async def get_hostnames(self) -> list:
         return self.data
+
