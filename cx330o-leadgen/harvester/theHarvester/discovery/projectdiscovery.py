@@ -28,3 +28,4 @@ class SearchDiscovery:
         self.proxy = proxy
         await self.do_search()
 
+
