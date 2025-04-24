@@ -669,3 +669,4 @@ Additional clauses:
 * If you would like to use for commercial purposes such as sending emails to clients, please purchase the license here:  https://foxcraft.gumroad.com/l/cold-mailing-too
 
 
+
