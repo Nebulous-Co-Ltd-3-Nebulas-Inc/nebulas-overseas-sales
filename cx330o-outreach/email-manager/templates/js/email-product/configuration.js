@@ -80,3 +80,4 @@ function deleteConfiguration(url){
     // deleteModal.show()
     model.classList.remove("!tw-hidden")
 }
+
