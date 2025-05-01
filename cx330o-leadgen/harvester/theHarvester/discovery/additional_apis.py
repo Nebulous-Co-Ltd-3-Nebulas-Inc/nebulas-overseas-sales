@@ -175,3 +175,4 @@ class AdditionalAPIs:
     async def get_emails(self) -> set[str]:
         """Get all discovered emails."""
         return self.emails
+
