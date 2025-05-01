@@ -29,3 +29,4 @@ def send_token(email):
 
     send_mail_celery.delay(subject, message, recipient_list=[email])
 
+
