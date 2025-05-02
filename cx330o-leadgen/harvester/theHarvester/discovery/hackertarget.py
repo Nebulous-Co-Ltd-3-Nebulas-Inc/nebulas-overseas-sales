@@ -47,3 +47,4 @@ class SearchHackerTarget:
 
     async def get_hostnames(self) -> list:
         return [result for result in self.total_results.splitlines() if 'No PTR records found' not in result]
+
