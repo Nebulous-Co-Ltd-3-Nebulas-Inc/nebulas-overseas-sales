@@ -72,3 +72,4 @@ class SearchMojeek:
         rawres = myparser.Parser(self.total_results, self.word)
         return await rawres.hostnames()
 
+
