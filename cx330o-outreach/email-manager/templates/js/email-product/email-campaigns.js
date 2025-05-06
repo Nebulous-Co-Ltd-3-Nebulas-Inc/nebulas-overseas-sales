@@ -11,3 +11,4 @@ function onDeleteCampaign(url, name){
     // deleteModal.show()
     model.classList.remove("!tw-hidden")
 }
+
