@@ -33,3 +33,4 @@ class AbstractEngine(ABC):
         Returns `list[dict]` typed parsed data - `[title, addr, phone, website]`
         '''
         ...
+
