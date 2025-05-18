@@ -9,3 +9,4 @@ class AutomailConfig(AppConfig):
         from . import signals
         return super().ready()
 
+
