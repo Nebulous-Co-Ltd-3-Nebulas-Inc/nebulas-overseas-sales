@@ -738,3 +738,4 @@ class AsyncFetcher:
 def show_default_error_message(engine_name: str, word: str, error) -> None:
     print(f"Failed to process {engine_name} search for word: '{word}'")
     print(f'Error Message: {error}')
+
