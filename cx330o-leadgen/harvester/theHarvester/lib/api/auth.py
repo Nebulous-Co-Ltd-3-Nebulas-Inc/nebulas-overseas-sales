@@ -11,3 +11,4 @@ def get_api_key(x_api_key: str | None = Header(None)) -> str:
     # In production, you would validate against a database or config
     return x_api_key or 'default'
 
+
