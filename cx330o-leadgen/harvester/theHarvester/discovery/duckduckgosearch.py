@@ -86,3 +86,4 @@ class SearchDuckDuckGo:
         self.proxy = proxy
         await self.do_search()  # Only need to search once since using API.
 
+
