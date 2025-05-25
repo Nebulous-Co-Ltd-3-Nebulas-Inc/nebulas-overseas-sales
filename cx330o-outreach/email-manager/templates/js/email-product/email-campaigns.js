@@ -12,3 +12,4 @@ function onDeleteCampaign(url, name){
     model.classList.remove("!tw-hidden")
 }
 
+
