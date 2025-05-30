@@ -57,3 +57,4 @@ class ContentTypeRestrictedFileField(FileField):
             pass
 
         return data
+
