@@ -394,3 +394,4 @@ class SearchHudsonRock:
         except Exception as e:
             self.logger.error(f'Hudson Rock processing failed: {e}', exc_info=True)
             raise
+
