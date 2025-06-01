@@ -104,3 +104,4 @@ class TakeOver:
 
     async def get_takeover_results(self):
         return self.results
+
