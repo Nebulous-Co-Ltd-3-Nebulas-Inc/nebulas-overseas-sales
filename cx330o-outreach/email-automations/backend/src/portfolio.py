@@ -183,3 +183,4 @@ class Portfolio:
             team_analysis['collaboration_score'] = 85
         
         return team_analysis
+
