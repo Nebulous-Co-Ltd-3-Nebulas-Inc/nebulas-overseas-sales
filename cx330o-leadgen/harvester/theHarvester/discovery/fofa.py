@@ -126,3 +126,4 @@ class SearchFofa:
         await self.do_search()
 
 
+
