@@ -84,3 +84,4 @@ class SearchIntelx:
                 continue
 
         return urls, list(set(subdomains))
+
