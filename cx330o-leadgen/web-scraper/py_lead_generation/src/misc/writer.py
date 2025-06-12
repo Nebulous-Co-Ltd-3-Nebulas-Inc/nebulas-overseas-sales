@@ -40,3 +40,4 @@ class CsvWriter:
             for d in data:
                 writer.writerow(d)
 
+
