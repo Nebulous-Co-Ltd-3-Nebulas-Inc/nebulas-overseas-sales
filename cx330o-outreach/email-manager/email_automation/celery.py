@@ -22,3 +22,4 @@ app.autodiscover_tasks()
 # @app.task(bind=True)
 # def debug_task(self):
 
+
