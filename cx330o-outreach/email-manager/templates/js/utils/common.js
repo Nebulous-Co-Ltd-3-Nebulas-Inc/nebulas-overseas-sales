@@ -323,3 +323,4 @@ function templateModalRenderPreview(){
 //     templateModalSubject.innerText = ""
 //     templateModalBody.innerHTML = ""
 // }
+
