@@ -48,3 +48,4 @@ class EmailForm(forms.ModelForm):
         model = EmailCampaignTemplate
         exclude = (  'completed', 'created_datetime', 'sent_count', 
                     'failed_count', 'failed_emails', 'error', 'smtp_error_count')
+
