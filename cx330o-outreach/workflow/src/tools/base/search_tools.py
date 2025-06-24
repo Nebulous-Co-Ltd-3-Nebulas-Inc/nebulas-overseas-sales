@@ -55,3 +55,4 @@ def get_recent_news(company: str) -> str:
     else:
         return f"Error fetching news: {response.status_code}"
 
+
