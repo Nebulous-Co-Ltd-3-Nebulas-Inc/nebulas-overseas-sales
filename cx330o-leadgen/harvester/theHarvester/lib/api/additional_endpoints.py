@@ -69,3 +69,4 @@ async def get_all_info(request: DomainRequest, api_key: str = Depends(get_api_ke
         return {'status': 'success', 'data': results}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
