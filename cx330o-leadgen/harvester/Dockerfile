@@ -24,3 +24,4 @@ EXPOSE 80
 # Run the application as theharvester user
 ENTRYPOINT ["restfulHarvest", "-H", "0.0.0.0", "-p", "80"]
 
+
