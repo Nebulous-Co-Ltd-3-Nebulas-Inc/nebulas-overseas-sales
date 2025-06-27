@@ -283,3 +283,4 @@ function checkFields(){
     hiddenFollowup.value =  JSON.stringify(followup_data)
     return true
 }
+
