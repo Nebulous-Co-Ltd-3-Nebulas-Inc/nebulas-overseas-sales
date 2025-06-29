@@ -569,3 +569,4 @@ def detailed_template_view(request, id):
     email_template['edit_url'] = reverse('email-template-create') + f"?edit={id}"
 
     return JsonResponse(email_template, status=200)
+
