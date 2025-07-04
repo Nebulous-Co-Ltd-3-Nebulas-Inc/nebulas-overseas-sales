@@ -66,3 +66,4 @@ class UserAdmin(UserAdmin):
 
     readonly_fields = ['id', 'date_joined']
     
+
