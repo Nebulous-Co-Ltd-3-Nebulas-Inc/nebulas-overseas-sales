@@ -222,3 +222,4 @@ def generate_postprocessing_callback(target: str, **allhosts: list[str]) -> Call
                     __hosts.append(host)
 
     return append_matching_hosts
+
