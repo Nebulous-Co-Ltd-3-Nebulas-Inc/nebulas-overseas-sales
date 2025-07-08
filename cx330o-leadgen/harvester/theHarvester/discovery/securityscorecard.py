@@ -90,3 +90,4 @@ class SearchSecurityScorecard:
 
     async def get_history(self) -> list[dict]:
         return self.history
+
