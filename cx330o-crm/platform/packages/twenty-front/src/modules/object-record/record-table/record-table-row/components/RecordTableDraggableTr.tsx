@@ -76,3 +76,4 @@ export const RecordTableDraggableTr = ({
     </Draggable>
   );
 };
+
