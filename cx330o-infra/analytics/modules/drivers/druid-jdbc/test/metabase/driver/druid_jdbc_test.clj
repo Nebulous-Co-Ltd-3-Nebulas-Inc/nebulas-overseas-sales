@@ -597,3 +597,4 @@
                (mt/rows (qp/process-query query))))
         (is (= "select count(1) from checkins where __time >= '2014-04-07'"
                (:query (qp.compile/compile-with-inline-parameters query))))))))
+
