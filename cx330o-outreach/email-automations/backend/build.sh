@@ -61,3 +61,4 @@ echo "  Production:  docker run -p 8000:8000 cold-email-backend:prod"
 echo ""
 echo "🚀 For production deployment:"
 echo "  docker-compose -f docker-compose.prod.yml up -d" 
+
