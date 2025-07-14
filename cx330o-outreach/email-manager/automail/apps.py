@@ -10,3 +10,4 @@ class AutomailConfig(AppConfig):
         return super().ready()
 
 
+
