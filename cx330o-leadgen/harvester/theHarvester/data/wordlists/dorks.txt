@@ -13,3 +13,4 @@ intitle:"Server Administration"
 inurl:passwd.txt
 robots.txt
 php-addressbook "This is the addressbook for *" -warning
+
