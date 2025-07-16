@@ -452,3 +452,4 @@ class PublicController extends CommonFormController
         return new JsonResponse($companyModel->getRepository()->getCompanyLookupData($search));
     }
 }
+
