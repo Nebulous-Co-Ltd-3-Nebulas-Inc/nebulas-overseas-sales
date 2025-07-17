@@ -126,3 +126,4 @@ class BlacklistedEmailDomains(models.Model):
     """
 
     domain = models.CharField(validators=[RegexValidator], max_length=255)
+
