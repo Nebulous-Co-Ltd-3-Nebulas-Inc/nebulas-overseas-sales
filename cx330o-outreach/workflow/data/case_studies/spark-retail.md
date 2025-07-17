@@ -37,3 +37,4 @@ Spark Retail, a mid-sized chain of home goods stores operating across the Midwes
 By leveraging ElevateAI’s chatbot and social media automation services, Spark Retail not only enhanced customer interactions but also established a strong online presence. This success demonstrates how AI can transform customer engagement into tangible business results. 
 
 
+
