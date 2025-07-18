@@ -34,3 +34,4 @@ describe('View Sort destroy should fail', () => {
     },
   );
 });
+
