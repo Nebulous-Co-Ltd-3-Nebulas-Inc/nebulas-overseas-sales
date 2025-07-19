@@ -36,3 +36,4 @@ const readBySettingKey = async (req, res) => {
 };
 
 module.exports = readBySettingKey;
+
