@@ -81,3 +81,4 @@ function deleteConfiguration(url){
     model.classList.remove("!tw-hidden")
 }
 
+
