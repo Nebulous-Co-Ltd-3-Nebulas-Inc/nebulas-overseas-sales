@@ -63,3 +63,4 @@ export const ViewBarRecordFilterEffect = () => {
 
   return null;
 };
+
