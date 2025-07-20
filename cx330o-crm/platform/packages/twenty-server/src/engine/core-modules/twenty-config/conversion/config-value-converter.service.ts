@@ -118,3 +118,4 @@ export class ConfigValueConverterService {
     return ConfigVariableType.STRING;
   }
 }
+
