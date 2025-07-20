@@ -59,3 +59,4 @@ describe("useDatabaseQuery", () => {
     expect(screen.getByText(PERMISSION_ERROR)).toBeInTheDocument();
   });
 });
+
