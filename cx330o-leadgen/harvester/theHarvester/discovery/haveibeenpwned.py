@@ -72,3 +72,4 @@ class SearchHaveIBeenPwned:
     async def get_affected_data(self) -> set[str]:
         return self.affected_data
 
+
