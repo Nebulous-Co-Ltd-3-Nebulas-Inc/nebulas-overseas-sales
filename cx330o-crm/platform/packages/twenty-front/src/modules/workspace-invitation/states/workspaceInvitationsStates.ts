@@ -7,3 +7,4 @@ export const workspaceInvitationsState = createAtomState<
   key: 'workspaceInvitationsState',
   defaultValue: [],
 });
+
