@@ -11,3 +11,4 @@ export const downloadFile = (fullPath: string, fileName: string) => {
       saveAs(blob, fileName);
     });
 };
+
