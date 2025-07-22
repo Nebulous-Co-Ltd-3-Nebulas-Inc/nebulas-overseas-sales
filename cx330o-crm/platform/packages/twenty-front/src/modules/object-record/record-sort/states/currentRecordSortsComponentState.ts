@@ -9,3 +9,4 @@ export const currentRecordSortsComponentState = createAtomComponentState<
   defaultValue: [],
   componentInstanceContext: RecordSortsComponentInstanceContext,
 });
+
