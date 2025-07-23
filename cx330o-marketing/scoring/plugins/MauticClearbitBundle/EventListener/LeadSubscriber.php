@@ -33,3 +33,4 @@ class LeadSubscriber implements EventSubscriberInterface
         $this->lookupHelper->lookupCompany($event->getCompany(), true, true);
     }
 }
+
