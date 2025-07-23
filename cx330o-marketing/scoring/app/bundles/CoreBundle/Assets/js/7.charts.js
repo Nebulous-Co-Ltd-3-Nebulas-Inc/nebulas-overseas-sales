@@ -410,3 +410,4 @@ Mautic.emulateNoDataForPieChart = function (data) {
     }
     return data;
 };
+
