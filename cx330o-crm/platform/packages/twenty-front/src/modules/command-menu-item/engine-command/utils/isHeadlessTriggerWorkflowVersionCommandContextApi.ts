@@ -7,3 +7,4 @@ export const isHeadlessTriggerWorkflowVersionCommandContextApi = (
   state: HeadlessCommandContextApi,
 ): state is HeadlessTriggerWorkflowVersionCommandContextApi =>
   'workflowId' in state;
+
