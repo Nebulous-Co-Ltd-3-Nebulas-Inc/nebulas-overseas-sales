@@ -21,3 +21,4 @@ export const ACCENT_LIGHT = {
   accent11: RadixColors.indigoP3.indigo11,
   accent12: RadixColors.indigoP3.indigo12,
 };
+
