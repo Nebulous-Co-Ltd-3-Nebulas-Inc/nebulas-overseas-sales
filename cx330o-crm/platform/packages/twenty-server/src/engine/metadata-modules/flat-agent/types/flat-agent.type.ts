@@ -4,3 +4,4 @@ import { type FlatEntityFrom } from 'src/engine/metadata-modules/flat-entity/typ
 export type FlatAgent = FlatEntityFrom<AgentEntity>;
 
 export type FlatAgentWithRoleId = FlatAgent & { roleId: string | null };
+
