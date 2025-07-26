@@ -51,3 +51,4 @@ class CompanyDeduperTest extends \PHPUnit\Framework\TestCase
         );
     }
 }
+
