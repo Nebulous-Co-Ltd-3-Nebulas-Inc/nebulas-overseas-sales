@@ -45,3 +45,4 @@ class LeadLoaderBase(ABC):
         except Exception as e:
             print(f"Error updating lead status: {e}")
             return None
+
