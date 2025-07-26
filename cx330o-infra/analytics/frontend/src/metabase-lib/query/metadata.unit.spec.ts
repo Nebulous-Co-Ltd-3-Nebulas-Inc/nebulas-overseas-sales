@@ -16,3 +16,4 @@ describe("metadataProvider", () => {
     expect(metadataProvider1).toBe(metadataProvider2);
   });
 });
+
