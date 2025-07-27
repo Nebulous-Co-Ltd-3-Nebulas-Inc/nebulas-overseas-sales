@@ -129,3 +129,4 @@ class Time extends Text
         parent::setXmlValue($value);
     }
 }
+
