@@ -18,3 +18,4 @@ class EmailResponse(BaseModel):
     message: str
     emails: List[Dict[str, Any]]
     total_jobs: int 
+
