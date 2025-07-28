@@ -52,3 +52,4 @@ export class EntitySchemaFactory {
     return entitySchema;
   }
 }
+
