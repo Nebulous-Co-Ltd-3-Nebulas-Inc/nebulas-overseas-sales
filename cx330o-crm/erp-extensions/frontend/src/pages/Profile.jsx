@@ -17,3 +17,4 @@ export default function Profile() {
   };
   return <ProfileModule config={config} />;
 }
+
