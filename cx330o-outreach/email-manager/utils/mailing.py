@@ -142,3 +142,4 @@ def check_recipient_responded(email_address, start_date: datetime, end_date, ima
                     return True
         
     return False
+
