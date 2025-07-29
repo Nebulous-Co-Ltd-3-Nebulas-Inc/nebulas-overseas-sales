@@ -4,3 +4,4 @@ export type SpreadsheetImportInfo = {
   message: string;
   level: SpreadsheetImportErrorLevel;
 };
+
