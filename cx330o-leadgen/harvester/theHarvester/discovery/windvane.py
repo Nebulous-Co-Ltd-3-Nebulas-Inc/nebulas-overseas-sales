@@ -341,3 +341,4 @@ class SearchWindvane:
 
         await self.do_search()
 
+
