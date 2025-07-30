@@ -114,3 +114,4 @@ class SearchChaos:
         self.proxy = proxy
         await self.do_search()
 
+
