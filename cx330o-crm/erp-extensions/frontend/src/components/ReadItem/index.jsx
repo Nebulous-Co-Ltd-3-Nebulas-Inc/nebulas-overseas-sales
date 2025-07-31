@@ -55,3 +55,4 @@ export default function ReadItem({ config }) {
 
   return <div style={show}>{itemsList}</div>;
 }
+
