@@ -171,3 +171,4 @@ class Calculator
         return $statDAO;
     }
 }
+
