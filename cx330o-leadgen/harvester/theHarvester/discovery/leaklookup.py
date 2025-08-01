@@ -73,3 +73,4 @@ class SearchLeakLookup:
 
     async def get_leak_dates(self) -> set[str]:
         return self.leak_dates
+
