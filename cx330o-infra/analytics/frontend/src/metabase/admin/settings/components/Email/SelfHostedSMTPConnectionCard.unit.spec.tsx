@@ -74,3 +74,4 @@ describe("SelfHostedSMTPConnectionCard", () => {
     ).not.toBeInTheDocument();
   });
 });
+
