@@ -21,3 +21,4 @@ export const checkIfFieldIsImageIdentifier = (
     objectMetadataItem.imageIdentifierFieldMetadataId === fieldMetadataItem.id
   );
 };
+
