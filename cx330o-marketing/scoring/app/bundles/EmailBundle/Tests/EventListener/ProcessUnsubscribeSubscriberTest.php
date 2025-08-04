@@ -51,3 +51,4 @@ final class ProcessUnsubscribeSubscriberTest extends \PHPUnit\Framework\TestCase
         $this->subscriber->onEmailSend($event);
     }
 }
+
