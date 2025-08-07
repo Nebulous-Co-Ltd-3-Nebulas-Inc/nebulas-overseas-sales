@@ -74,3 +74,4 @@ class MaxmindDownloadLookup extends AbstractLocalDataLookup
         }
     }
 }
+
