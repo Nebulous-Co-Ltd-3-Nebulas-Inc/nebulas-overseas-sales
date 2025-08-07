@@ -57,3 +57,4 @@ class ApplicationPolicy
     end
   end
 end
+
