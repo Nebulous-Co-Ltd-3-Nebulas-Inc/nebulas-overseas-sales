@@ -35,3 +35,4 @@ class DateTimeDefaultPrecision
         return self::$precision;
     }
 }
+
