@@ -41,3 +41,4 @@ export const trimAndRemoveDuplicatedWhitespacesFromObjectStringProperties = <
     extractKeys ? ({} as T) : obj,
   );
 };
+
