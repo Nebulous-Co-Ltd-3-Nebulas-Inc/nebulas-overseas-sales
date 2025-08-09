@@ -276,3 +276,4 @@ export const ChartSettingSeriesOrder = ({
     </Box>
   );
 };
+
