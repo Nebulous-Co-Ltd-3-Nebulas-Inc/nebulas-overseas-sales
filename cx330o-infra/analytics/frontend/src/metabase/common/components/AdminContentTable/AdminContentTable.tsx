@@ -19,3 +19,4 @@ export const AdminContentTable = ({
     <tbody>{children}</tbody>
   </table>
 );
+
