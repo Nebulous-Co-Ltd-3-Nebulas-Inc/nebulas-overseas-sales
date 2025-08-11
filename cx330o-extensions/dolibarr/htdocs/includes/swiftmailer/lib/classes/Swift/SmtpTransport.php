@@ -43,3 +43,4 @@ class Swift_SmtpTransport extends Swift_Transport_EsmtpTransport
         $this->setEncryption($encryption);
     }
 }
+
