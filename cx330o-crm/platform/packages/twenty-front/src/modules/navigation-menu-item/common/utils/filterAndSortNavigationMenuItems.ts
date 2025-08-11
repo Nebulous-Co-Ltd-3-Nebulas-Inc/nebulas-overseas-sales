@@ -49,3 +49,4 @@ export const filterAndSortNavigationMenuItems = (
     })
     .sort((a, b) => a.position - b.position);
 };
+
