@@ -42,3 +42,4 @@ class GmailTools:
     def _encode_message(self, message):
         return base64.urlsafe_b64encode(message.as_bytes()).decode()
 
+
