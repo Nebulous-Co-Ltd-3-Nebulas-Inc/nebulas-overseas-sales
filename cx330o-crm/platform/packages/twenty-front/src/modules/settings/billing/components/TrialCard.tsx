@@ -36,3 +36,4 @@ export const TrialCard = ({ duration, withCreditCard }: TrialCardProps) => {
     </StyledTrialCardContainer>
   );
 };
+
