@@ -32,3 +32,4 @@ export const getWebhookTriggerDefaultSettings = (
   }
   return assertUnreachable(webhookHttpMethods, 'Invalid webhook http method');
 };
+
