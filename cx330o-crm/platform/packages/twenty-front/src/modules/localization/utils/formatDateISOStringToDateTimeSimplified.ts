@@ -16,3 +16,4 @@ export const formatDateISOStringToDateTimeSimplified = (
     `${simplifiedDateFormat} · ${timeFormat}`,
   );
 };
+
