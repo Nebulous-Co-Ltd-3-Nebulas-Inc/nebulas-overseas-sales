@@ -13,3 +13,4 @@ export const IconTrashXOff = (props: IconTrashXOffProps) => {
 
   return <IconTrashXOffRaw height={size} width={size} strokeWidth={stroke} />;
 };
+
