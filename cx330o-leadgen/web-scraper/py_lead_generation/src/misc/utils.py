@@ -15,3 +15,4 @@ def get_coords_by_location(location: str) -> tuple[str]:
     coords = list(map(str, coords))
     return coords
 
+
