@@ -12,3 +12,4 @@ export const getCompanyNameFromDomainName = (domainName: string) => {
 
   return result.sld ? capitalize(result.sld) : '';
 };
+
