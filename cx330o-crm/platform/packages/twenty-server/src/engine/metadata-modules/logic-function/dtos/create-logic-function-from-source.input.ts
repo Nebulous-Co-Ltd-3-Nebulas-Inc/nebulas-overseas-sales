@@ -81,3 +81,4 @@ export class CreateLogicFunctionFromSourceInput {
   @IsOptional()
   httpRouteTriggerSettings?: JsonbProperty<HttpRouteTriggerSettings>;
 }
+
