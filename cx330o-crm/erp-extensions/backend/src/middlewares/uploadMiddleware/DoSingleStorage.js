@@ -92,3 +92,4 @@ const DoSingleStorage = ({
 };
 
 module.exports = DoSingleStorage;
+
