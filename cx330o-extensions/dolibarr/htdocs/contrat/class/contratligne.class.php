@@ -1031,3 +1031,4 @@ class ContratLigne extends CommonObjectLine
 		}
 	}
 }
+
