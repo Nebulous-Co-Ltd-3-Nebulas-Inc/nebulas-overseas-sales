@@ -49,3 +49,4 @@ export class DeleteViewFilterPermissionGuard implements CanActivate {
     );
   }
 }
+
