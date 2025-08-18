@@ -25,3 +25,4 @@ export const fromFlatFrontComponentToFrontComponentDto = (
   createdAt: new Date(flatFrontComponent.createdAt),
   updatedAt: new Date(flatFrontComponent.updatedAt),
 });
+
