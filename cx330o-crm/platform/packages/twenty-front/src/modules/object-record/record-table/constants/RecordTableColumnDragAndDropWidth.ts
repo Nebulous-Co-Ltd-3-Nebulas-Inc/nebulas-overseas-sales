@@ -1,1 +1,2 @@
 export const RECORD_TABLE_COLUMN_DRAG_AND_DROP_WIDTH = 12;
+
