@@ -8,3 +8,4 @@ export const isPlainDateBeforeOrEqual = (
 
   return comparisonResult <= 0;
 };
+
