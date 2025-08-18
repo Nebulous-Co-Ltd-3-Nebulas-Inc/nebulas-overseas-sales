@@ -5,3 +5,4 @@ export enum BillingPriceTaxBehavior {
   INCLUSIVE = 'INCLUSIVE',
   UNSPECIFIED = 'UNSPECIFIED',
 }
+
