@@ -22,3 +22,4 @@ use \Exception;
 class MessageHeaderFetchingException extends Exception {
 
 }
+
