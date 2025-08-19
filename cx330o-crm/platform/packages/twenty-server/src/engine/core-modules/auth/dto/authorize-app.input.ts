@@ -32,3 +32,4 @@ export class AuthorizeAppInput {
   @IsOptional()
   scope?: string;
 }
+
