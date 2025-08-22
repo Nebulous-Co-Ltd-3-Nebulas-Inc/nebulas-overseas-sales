@@ -37,3 +37,4 @@ export const getAgentIdFromStep = (
 
   return definition.settings.input.agentId;
 };
+
