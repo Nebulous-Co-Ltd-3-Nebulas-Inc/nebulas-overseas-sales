@@ -499,3 +499,4 @@ if (getDolGlobalString('SHOW_TOTAL_OF_PREVIOUS_LISTS_IN_LIN_PAGE')) { // This pa
 // End of page
 llxFooter();
 $db->close();
+
