@@ -53,3 +53,4 @@ export const updateViewFilterGroupData = (
   logicalOperator: ViewFilterGroupLogicalOperator.OR,
   ...overrides,
 });
+
