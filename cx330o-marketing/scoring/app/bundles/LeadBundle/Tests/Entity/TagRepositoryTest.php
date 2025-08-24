@@ -83,3 +83,4 @@ class TagRepositoryTest extends \PHPUnit\Framework\TestCase
         $this->assertSame($expected, $repository->removeMinusFromTags($tags));
     }
 }
+
