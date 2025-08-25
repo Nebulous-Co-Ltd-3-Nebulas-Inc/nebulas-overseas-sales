@@ -7,3 +7,4 @@ export const stepFilterGroupSchema = z.object({
   parentStepFilterGroupId: z.string().optional(),
   positionInStepFilterGroup: z.number().optional(),
 });
+
