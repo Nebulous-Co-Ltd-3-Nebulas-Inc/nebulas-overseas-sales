@@ -38,3 +38,4 @@ class SearchBeVigil:
         self.proxy = proxy
         await self.do_search()
 
+
