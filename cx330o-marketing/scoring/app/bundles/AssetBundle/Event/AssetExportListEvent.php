@@ -43,3 +43,4 @@ final class AssetExportListEvent extends CommonEvent
         return $this->list ?? null;
     }
 }
+
