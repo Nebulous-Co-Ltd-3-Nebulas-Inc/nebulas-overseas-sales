@@ -2150,3 +2150,4 @@
 (defmethod driver/compile-drop-table :sql
   [driver table]
   (format-honeysql driver {:drop-table [:if-exists (keyword table)]}))
+
