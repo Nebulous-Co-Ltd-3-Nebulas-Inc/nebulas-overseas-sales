@@ -51,3 +51,4 @@ class PermissionClassMetadataTest extends TestCase
         $this->assertTrue(isset($metadata->toArray()['permissionClasses'][AssetPermissions::class]));
     }
 }
+
