@@ -97,3 +97,4 @@ class InactiveContactFinderTest extends \PHPUnit\Framework\TestCase
         );
     }
 }
+
