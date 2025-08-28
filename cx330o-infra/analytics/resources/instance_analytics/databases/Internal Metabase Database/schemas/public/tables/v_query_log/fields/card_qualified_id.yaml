@@ -43,3 +43,4 @@ database_is_generated: false
 database_is_nullable: true
 database_is_pk: false
 database_partitioned: null
+
