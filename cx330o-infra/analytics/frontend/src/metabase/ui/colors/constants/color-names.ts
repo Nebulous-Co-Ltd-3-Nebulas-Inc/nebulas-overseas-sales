@@ -7,3 +7,4 @@ import { METABASE_LIGHT_THEME } from "./themes/light";
 export const ALL_COLOR_NAMES = Object.keys(METABASE_LIGHT_THEME.colors).concat(
   ALL_ACCENT_COLOR_NAMES,
 ) as MetabaseColorKey[];
+
