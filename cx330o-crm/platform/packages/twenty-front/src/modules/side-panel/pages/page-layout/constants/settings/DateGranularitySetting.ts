@@ -11,3 +11,4 @@ export const DATE_GRANULARITY_SETTING: ChartSettingsItem = {
   id: CHART_CONFIGURATION_SETTING_IDS.DATE_GRANULARITY,
   DropdownContent: ChartDateGranularitySelectionDropdownContent,
 };
+
