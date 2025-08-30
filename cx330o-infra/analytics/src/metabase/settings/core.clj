@@ -174,3 +174,4 @@
   [& body]
   `(binding [metabase.settings.models.setting/*enforce-setting-access-checks* true]
      ~@body))
+
