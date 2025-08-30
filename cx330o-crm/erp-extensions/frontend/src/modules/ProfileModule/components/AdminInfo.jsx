@@ -95,3 +95,4 @@ const AdminInfo = ({ config }) => {
   );
 };
 export default AdminInfo;
+
