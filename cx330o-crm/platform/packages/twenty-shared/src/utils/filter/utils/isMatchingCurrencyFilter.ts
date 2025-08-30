@@ -107,3 +107,4 @@ export const isMatchingCurrencyFilter = ({
     `Unexpected filter for currency : ${JSON.stringify(currencyFilter)}`,
   );
 };
+
