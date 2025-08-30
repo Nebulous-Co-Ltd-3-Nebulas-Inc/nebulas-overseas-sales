@@ -56,3 +56,4 @@ export const JestRecordIndexContextProviderWrapper = ({
     </RecordFilterGroupsComponentInstanceContext.Provider>
   );
 };
+
