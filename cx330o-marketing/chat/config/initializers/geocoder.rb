@@ -28,3 +28,4 @@ Geocoder.configure(ip_lookup: :geoip2, geoip2: { file: GeocoderConfiguration::LO
 Rails.application.config.after_initialize do
   Geocoder::SetupService.new.perform
 end
+
