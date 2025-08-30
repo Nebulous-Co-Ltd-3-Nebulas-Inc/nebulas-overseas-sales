@@ -32,3 +32,4 @@ def scrape_website_to_markdown(url: str) -> str:
 
     return markdown_content
 
+
