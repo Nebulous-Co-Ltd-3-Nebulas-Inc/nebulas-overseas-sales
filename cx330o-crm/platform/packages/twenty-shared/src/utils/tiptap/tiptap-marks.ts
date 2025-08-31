@@ -46,3 +46,4 @@ export interface TipTapMark {
   type: TipTapMarkType;
   attrs?: LinkMarkAttributes | Record<string, unknown>;
 }
+
