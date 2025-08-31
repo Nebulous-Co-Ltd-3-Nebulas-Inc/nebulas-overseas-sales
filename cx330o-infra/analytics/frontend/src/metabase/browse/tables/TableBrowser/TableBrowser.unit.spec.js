@@ -41,3 +41,4 @@ describe("TableBrowser", () => {
     expect(screen.queryByTestId("loading-indicator")).not.toBeInTheDocument();
   });
 });
+
