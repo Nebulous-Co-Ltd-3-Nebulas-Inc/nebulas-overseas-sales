@@ -66,3 +66,4 @@ export const generateViewFilterUserFriendlyExceptionMessage = (
       return msg`FieldMetadataId is required to create a view filter.`;
   }
 };
+
