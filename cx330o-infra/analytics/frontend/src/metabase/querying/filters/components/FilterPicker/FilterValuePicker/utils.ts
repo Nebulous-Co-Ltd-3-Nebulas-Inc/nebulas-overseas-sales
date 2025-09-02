@@ -53,3 +53,4 @@ export function getSearchPlaceholder(
 export function getNothingFoundMessage(searchColumName: string) {
   return t`No matching ${searchColumName} found.`;
 }
+
