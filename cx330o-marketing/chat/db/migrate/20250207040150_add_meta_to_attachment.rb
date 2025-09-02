@@ -3,3 +3,4 @@ class AddMetaToAttachment < ActiveRecord::Migration[7.0]
     add_column :attachments, :meta, :jsonb, default: {}
   end
 end
+
