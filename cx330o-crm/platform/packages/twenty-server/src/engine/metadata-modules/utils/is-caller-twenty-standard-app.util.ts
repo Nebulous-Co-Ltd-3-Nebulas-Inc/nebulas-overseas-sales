@@ -6,3 +6,4 @@ export const isCallerTwentyStandardApp = (
 ) =>
   buildOptions.applicationUniversalIdentifier ===
   TWENTY_STANDARD_APPLICATION.universalIdentifier;
+
