@@ -153,3 +153,4 @@ it("should show a placeholder if there are no segments", async () => {
     expect.objectContaining({ min: 0, max: 1, color: expect.anything() }),
   ]);
 });
+
