@@ -45,3 +45,4 @@ export const EntityNameCell = memo(function EntityNameCell({
     </Group>
   );
 });
+
