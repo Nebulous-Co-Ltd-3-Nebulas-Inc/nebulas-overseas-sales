@@ -29,3 +29,4 @@ class MauticSyncFieldsLoadEventTest extends TestCase
         );
     }
 }
+
