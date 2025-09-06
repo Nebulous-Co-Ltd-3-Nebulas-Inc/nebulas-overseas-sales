@@ -85,3 +85,4 @@ export class ChangeValueTypesForInsights1759399811000 implements IrreversibleMig
 		}
 	}
 }
+
