@@ -34,3 +34,4 @@ export interface AdjustLogLevelsRequest {
   duration_unit: LoggerDurationUnit;
   log_levels: Record<LoggerName, LogLevel>;
 }
+
