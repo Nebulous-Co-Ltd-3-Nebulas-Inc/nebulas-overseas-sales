@@ -90,3 +90,4 @@ class Salesforce extends AbstractService
         return array('Accept' => 'application/json');
     }
 }
+
