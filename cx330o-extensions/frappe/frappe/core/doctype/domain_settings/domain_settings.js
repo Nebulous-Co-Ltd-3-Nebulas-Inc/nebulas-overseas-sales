@@ -67,3 +67,4 @@ frappe.ui.form.on("Domain Settings", {
 		refresh_field("active_domains");
 	},
 });
+
