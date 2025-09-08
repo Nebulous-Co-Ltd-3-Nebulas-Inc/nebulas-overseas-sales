@@ -677,3 +677,4 @@ describe('workflowExecuteAfterHandler - flushEvents', () => {
 		expect(repoMocks.insertInsightsRaw).toHaveBeenCalledTimes(1);
 	});
 });
+
