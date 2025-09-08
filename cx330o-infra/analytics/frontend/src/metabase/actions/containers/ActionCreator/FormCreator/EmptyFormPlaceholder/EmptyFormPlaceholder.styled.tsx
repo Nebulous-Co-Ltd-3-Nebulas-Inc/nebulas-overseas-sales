@@ -59,3 +59,4 @@ export const TopRightIcon = styled(Icon)`
   top: 0;
   right: 0;
 `;
+
