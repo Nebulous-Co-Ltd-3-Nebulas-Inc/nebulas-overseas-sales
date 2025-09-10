@@ -5,3 +5,4 @@ export const FORM_FIELD_PLACEHOLDER_STYLES = `
   font-size: ${themeCssVariables.font.size.md};
   font-weight: ${themeCssVariables.font.weight.medium};
 `;
+
