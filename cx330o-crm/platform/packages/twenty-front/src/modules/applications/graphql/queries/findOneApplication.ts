@@ -9,3 +9,4 @@ export const FIND_ONE_APPLICATION = gql`
     }
   }
 `;
+
