@@ -6,3 +6,4 @@ export const isFieldPhoneValue = (
   fieldValue: unknown,
 ): fieldValue is FieldPositionMetadata =>
   isNumber(fieldValue) || fieldValue === 'first' || fieldValue === 'last';
+
