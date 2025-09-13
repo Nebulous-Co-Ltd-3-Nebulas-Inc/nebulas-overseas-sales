@@ -30,3 +30,4 @@ export const findPageLayoutTabsQueryFactory = ({
     pageLayoutId: input.pageLayoutId,
   },
 });
+
