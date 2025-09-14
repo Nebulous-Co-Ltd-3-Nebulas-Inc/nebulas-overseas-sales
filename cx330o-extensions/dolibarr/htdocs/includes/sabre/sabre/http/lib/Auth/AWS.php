@@ -218,3 +218,4 @@ class AWS extends AbstractAuth
         return $hmac;
     }
 }
+
