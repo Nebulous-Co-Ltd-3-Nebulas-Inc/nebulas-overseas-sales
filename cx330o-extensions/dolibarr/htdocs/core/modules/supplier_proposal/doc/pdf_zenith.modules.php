@@ -1676,3 +1676,4 @@ class pdf_zenith extends ModelePDFSupplierProposal
 		}
 	}
 }
+
