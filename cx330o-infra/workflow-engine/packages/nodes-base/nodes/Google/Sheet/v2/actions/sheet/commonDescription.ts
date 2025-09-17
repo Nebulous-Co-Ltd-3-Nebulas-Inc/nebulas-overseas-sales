@@ -268,3 +268,4 @@ export const useAppendOption: INodeProperties = {
 	description:
 		'Whether to use append instead of update(default), this is more efficient but in some cases data might be misaligned',
 };
+
