@@ -10,3 +10,4 @@ export const isFieldMetadataTextKind = (
 ): boolean => {
   return TEXT_FIELD_TYPES.includes(fieldMetadataType);
 };
+
