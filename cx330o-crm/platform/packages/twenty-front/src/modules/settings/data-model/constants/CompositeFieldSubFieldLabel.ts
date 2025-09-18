@@ -48,3 +48,4 @@ export const COMPOSITE_FIELD_SUB_FIELD_LABELS: {
     markdown: 'Markdown',
   },
 };
+
