@@ -30,3 +30,4 @@ export class CreateWorkflowPublishedVersionTable1769698710000 implements Reversi
 		await dropTable('workflow_published_version');
 	}
 }
+
