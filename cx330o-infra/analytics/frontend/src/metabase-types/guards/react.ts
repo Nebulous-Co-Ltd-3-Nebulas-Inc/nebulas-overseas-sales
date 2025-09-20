@@ -7,3 +7,4 @@ export function isReactDOMTypeElement(
 ): element is React.ReactElement {
   return ReactIs.isElement(element) && typeof element.type === "string";
 }
+
