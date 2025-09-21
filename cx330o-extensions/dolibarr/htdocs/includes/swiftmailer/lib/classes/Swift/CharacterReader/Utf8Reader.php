@@ -174,3 +174,4 @@ class Swift_CharacterReader_Utf8Reader implements Swift_CharacterReader
         return 1;
     }
 }
+
