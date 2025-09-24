@@ -98,3 +98,4 @@ export function resolveColorFromCssVariable(
   }
   return colorValue;
 }
+
