@@ -110,3 +110,4 @@ export function createNodeTypeMaps(nodeTypes: INodeTypeDescription[]): {
 
 	return { nodeTypeMap, nodeTypesByName };
 }
+
