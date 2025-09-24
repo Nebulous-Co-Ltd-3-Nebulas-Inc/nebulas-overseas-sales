@@ -13,3 +13,4 @@ export const IconTwentyStar = (props: IconTwentyStarProps) => {
 
   return <IconTwentyStarRaw height={size} width={size} strokeWidth={stroke} />;
 };
+
