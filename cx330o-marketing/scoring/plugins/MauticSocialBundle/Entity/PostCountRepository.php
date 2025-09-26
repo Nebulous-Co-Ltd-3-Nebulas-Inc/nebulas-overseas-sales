@@ -33,3 +33,4 @@ class PostCountRepository extends CommonRepository
         return $chartQuery->loadAndBuildTimeData($q);
     }
 }
+
