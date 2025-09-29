@@ -33,3 +33,4 @@ export default class WorkflowList extends BaseCommand {
 		});
 	}
 }
+
