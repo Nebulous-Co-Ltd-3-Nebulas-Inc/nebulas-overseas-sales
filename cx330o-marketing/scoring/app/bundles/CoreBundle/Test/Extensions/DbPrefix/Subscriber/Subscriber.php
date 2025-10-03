@@ -20,3 +20,4 @@ abstract class Subscriber
         return $this->dbPrefix;
     }
 }
+
