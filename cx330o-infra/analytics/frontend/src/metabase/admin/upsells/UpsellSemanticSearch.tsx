@@ -10,3 +10,4 @@ export const UpsellSemanticSearchPill = ({ source }: { source: string }) => {
     </UpsellPill>
   );
 };
+
