@@ -60,3 +60,4 @@ class MetaInf extends WriterPart
         return $objWriter->getData();
     }
 }
+
