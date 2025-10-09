@@ -65,3 +65,4 @@ class InvalidDateException extends BaseInvalidArgumentException implements Inval
         return $this->value;
     }
 }
+
