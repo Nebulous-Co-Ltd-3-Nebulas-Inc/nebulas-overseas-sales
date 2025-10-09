@@ -7,3 +7,4 @@ type PostgresMap = {
 export type PostgresType = AllEntities<PostgresMap>;
 
 export type PostgresDatabaseType = Entity<PostgresMap, 'database'>;
+
