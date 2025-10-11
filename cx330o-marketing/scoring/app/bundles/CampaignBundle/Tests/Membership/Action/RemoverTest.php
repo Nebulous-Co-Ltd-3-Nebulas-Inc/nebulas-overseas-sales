@@ -82,3 +82,4 @@ class RemoverTest extends \PHPUnit\Framework\TestCase
         return new Remover($this->leadRepository, $this->leadEventLogRepository, $translator, $dateTimeHelper);
     }
 }
+
