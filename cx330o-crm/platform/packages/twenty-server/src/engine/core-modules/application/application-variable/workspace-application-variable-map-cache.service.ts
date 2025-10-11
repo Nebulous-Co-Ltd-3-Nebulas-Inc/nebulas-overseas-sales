@@ -66,3 +66,4 @@ export class WorkspaceApplicationVariableMapCacheService extends WorkspaceCacheP
     return applicationVariableMaps;
   }
 }
+
