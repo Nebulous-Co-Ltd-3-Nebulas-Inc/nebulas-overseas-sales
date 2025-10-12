@@ -111,3 +111,4 @@ export class ExampleChatModel implements INodeType {
 		return supplyModel(this, model);
 	}
 }
+
