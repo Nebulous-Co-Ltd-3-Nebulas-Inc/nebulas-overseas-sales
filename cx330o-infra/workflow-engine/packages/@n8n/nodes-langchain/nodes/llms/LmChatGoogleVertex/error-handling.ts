@@ -23,3 +23,4 @@ export function makeErrorFromStatus(statusCode: number, context?: ErrorContext):
 
 	return errorMessages[statusCode];
 }
+
