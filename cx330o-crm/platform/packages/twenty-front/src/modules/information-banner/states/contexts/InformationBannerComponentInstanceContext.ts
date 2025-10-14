@@ -2,3 +2,4 @@ import { createComponentInstanceContext } from '@/ui/utilities/state/component-s
 
 export const InformationBannerComponentInstanceContext =
   createComponentInstanceContext();
+
