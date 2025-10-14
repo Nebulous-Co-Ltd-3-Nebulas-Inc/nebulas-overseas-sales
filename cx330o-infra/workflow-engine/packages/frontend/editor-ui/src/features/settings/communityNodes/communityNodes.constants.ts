@@ -14,3 +14,4 @@ export const COMMUNITY_PACKAGE_MANAGE_ACTIONS = {
 	UPDATE: 'update',
 	VIEW_DOCS: 'view-documentation',
 };
+
