@@ -60,3 +60,4 @@ interface NotificationSupport extends BackendInterface
      */
     public function shareReply($href, $status, $calendarUri, $inReplyTo, $summary = null);
 }
+
