@@ -28,3 +28,4 @@ export class FormTrigger extends VersionedNodeType {
 		super(nodeVersions, baseDescription);
 	}
 }
+
