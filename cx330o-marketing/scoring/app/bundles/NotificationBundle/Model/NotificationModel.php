@@ -326,3 +326,4 @@ class NotificationModel extends FormModel implements AjaxLookupModelInterface, G
         return $results;
     }
 }
+
