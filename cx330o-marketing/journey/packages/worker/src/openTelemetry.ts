@@ -51,3 +51,4 @@ export function initWorkerOpenTelemetry() {
   });
   return otel;
 }
+
