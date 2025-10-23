@@ -232,3 +232,4 @@ onMounted(async () => {
 	border-radius: 0.25em;
 }
 </style>
+
