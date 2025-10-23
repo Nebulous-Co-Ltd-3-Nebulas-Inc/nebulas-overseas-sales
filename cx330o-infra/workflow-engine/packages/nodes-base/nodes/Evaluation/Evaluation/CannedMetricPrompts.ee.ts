@@ -152,3 +152,4 @@ export const HELPFULNESS_INPUT_PROMPT: string[] = [
 Response: {actual_answer}`,
 	'Requires the placeholders <code>{user_query}</code> and <code>{actual_answer}</code>',
 ];
+
