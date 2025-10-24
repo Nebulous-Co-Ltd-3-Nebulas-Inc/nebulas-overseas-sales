@@ -67,3 +67,4 @@ const displayOptions = {
 };
 
 export const description = updateDisplayOptions(displayOptions, properties);
+
