@@ -15,3 +15,4 @@ class Imap::MicrosoftFetchEmailService < Imap::BaseFetchEmailService
     Microsoft::RefreshOauthTokenService.new(channel: channel).access_token
   end
 end
+
