@@ -40,3 +40,4 @@ export const CaptionRoot = styled.div`
     }
   }
 `;
+
