@@ -23,3 +23,4 @@ class ApiController < ApplicationController
     'failing'
   end
 end
+
