@@ -19,3 +19,4 @@ export class UnexpectedError extends BaseError {
 		super(message, opts);
 	}
 }
+
