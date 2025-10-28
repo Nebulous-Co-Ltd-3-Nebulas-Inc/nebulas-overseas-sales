@@ -28,3 +28,4 @@ export const PlansTags = ({ plan, isTrialPeriod = false }: PlansTagsProps) => {
     </StyledTagsWrapper>
   );
 };
+
