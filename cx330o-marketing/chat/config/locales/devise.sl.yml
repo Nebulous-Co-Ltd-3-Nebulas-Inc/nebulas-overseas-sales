@@ -61,3 +61,4 @@ sl:
         two: "%{count} napaki sta prepovedali shranjevanje tega %{resource}:"
         few: "%{count} napake so prepovedale shranjevanje tega %{resource}:"
         other: "%{count} napak je prepovedalo shranjevanje tega %{resource}:"
+
