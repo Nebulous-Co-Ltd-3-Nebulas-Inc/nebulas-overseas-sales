@@ -98,3 +98,4 @@ export class AddApiKeysTable1724951148974 implements ReversibleMigration {
 		await dropTable('user_api_keys');
 	}
 }
+
