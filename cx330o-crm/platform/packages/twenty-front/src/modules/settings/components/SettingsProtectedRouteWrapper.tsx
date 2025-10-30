@@ -40,3 +40,4 @@ export const SettingsProtectedRouteWrapper = ({
 
   return children ?? <Outlet />;
 };
+
