@@ -50,3 +50,4 @@ export const AdminNavListItem = styled(
   min-width: ${(props) =>
     props.currentPath.startsWith(props.path) ? "fit-content" : "0px"};
 `;
+
