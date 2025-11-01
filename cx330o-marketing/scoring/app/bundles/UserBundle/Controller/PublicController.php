@@ -140,3 +140,4 @@ class PublicController extends FormController
         ]);
     }
 }
+
