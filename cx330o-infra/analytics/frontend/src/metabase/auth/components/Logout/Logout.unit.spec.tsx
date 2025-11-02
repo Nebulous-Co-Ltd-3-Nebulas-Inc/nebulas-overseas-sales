@@ -27,3 +27,4 @@ describe("Logout", () => {
     await waitFor(() => expect(domUtils.reload).toHaveBeenCalled());
   });
 });
+
