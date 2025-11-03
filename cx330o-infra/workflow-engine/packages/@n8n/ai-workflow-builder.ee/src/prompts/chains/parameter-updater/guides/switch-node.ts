@@ -71,3 +71,4 @@ Use two conditions with combinator: "and":
 - Set caseSensitive: false in options for case-insensitive matching
 `,
 };
+
