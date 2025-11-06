@@ -13,3 +13,4 @@ export const isFieldMetadataNumericKind = (
 ): boolean => {
   return NUMBER_FIELD_TYPES.includes(fieldMetadataType);
 };
+
