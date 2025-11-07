@@ -19,3 +19,4 @@ export const currentUserState = createAtomState<CurrentUser | null>({
   key: 'currentUserState',
   defaultValue: null,
 });
+
