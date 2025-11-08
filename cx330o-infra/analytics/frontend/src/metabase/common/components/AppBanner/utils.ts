@@ -63,3 +63,4 @@ export function shouldShowTrialBanner({
 export const getCurrentUTCTimestamp = () => {
   return dayjs.utc().toISOString();
 };
+
