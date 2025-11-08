@@ -26,3 +26,4 @@ export class AdminPanelHealthServiceDataDTO {
   @Field(() => [AdminPanelWorkerQueueHealthDTO], { nullable: true })
   queues?: AdminPanelWorkerQueueHealthDTO[];
 }
+
