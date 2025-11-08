@@ -168,3 +168,4 @@ def add_query_params(url: str, params: dict) -> str:
 		parsed[4] = query_string
 
 	return urlunparse(parsed)
+
