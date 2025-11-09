@@ -48,3 +48,4 @@ export class VirusTotalApi implements ICredentialType {
 		},
 	};
 }
+
