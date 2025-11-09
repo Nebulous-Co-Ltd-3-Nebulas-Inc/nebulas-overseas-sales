@@ -57,3 +57,4 @@ export const handleFlatViewUpdateSideEffect = ({
 
   return sideEffectResult;
 };
+
