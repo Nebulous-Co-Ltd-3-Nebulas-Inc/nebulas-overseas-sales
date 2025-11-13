@@ -58,3 +58,4 @@ OnlyEmojis.args = {
 	buttonTooltip: 'Select an emoji',
 	availableIcons: [],
 };
+
