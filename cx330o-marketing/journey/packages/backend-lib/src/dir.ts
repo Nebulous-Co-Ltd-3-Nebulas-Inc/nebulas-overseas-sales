@@ -17,3 +17,4 @@ export function findBaseDir(): string {
   const baseDir = path.resolve(path.sep, ...baseDirParts);
   return baseDir;
 }
+
