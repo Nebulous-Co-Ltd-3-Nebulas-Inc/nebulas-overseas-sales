@@ -26,3 +26,4 @@ export class AiConfig {
 		return { 'openai-platform': 'org-qkmJQuJ2WnvoIKMr2UJwIJkZ' };
 	}
 }
+
