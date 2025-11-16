@@ -325,3 +325,4 @@ def create_reposting_entries(rows: str | list, item_code: str | None = None, war
 	if entries:
 		entries = ", ".join(entries)
 		frappe.msgprint(_("Reposting entries created: {0}").format(entries))
+
