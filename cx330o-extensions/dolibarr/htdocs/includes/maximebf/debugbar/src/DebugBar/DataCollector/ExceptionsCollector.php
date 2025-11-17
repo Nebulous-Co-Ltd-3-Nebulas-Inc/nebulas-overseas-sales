@@ -175,3 +175,4 @@ class ExceptionsCollector extends DataCollector implements Renderable
         );
     }
 }
+
