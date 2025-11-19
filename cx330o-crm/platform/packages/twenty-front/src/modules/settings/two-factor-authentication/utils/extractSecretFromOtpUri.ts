@@ -11,3 +11,4 @@ export const extractSecretFromOtpUri = (otpUri: string): string | null => {
     return null;
   }
 };
+
