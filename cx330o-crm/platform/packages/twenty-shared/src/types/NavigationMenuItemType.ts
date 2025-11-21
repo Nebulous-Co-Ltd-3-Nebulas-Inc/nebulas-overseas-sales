@@ -5,3 +5,4 @@ export enum NavigationMenuItemType {
   OBJECT = 'OBJECT',
   RECORD = 'RECORD',
 }
+
