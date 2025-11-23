@@ -26,3 +26,4 @@ class MessageTest extends TestCase
         $this->assertNotEmpty($message->getChanges());
     }
 }
+
