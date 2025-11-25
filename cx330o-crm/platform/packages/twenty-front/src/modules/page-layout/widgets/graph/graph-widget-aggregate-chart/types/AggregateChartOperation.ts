@@ -4,3 +4,4 @@ import { type DASHBOARD_AGGREGATE_OPERATION_RATIO } from '@/page-layout/widgets/
 export type AggregateChartOperation =
   | ExtendedAggregateOperations
   | typeof DASHBOARD_AGGREGATE_OPERATION_RATIO;
+
