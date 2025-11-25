@@ -234,3 +234,4 @@ export class Vero implements INodeType {
 		return [this.helpers.returnJsonArray(returnData)];
 	}
 }
+
