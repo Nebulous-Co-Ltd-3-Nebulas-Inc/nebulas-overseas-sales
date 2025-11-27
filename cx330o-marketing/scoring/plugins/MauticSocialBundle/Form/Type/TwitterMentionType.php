@@ -44,3 +44,4 @@ class TwitterMentionType extends TwitterAbstractType
         return 'twitter_handle';
     }
 }
+
