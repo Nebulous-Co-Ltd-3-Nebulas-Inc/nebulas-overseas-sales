@@ -63,3 +63,4 @@ def setup_complete(args=None):
 	stage_fixtures(args)
 	setup_company(args)
 	setup_defaults(args)
+
