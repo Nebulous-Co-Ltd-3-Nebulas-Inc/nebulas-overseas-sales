@@ -65,3 +65,4 @@ export const fromCreateCommandMenuItemInputToFlatCommandMenuItemToCreate = ({
     updatedAt: now,
   };
 };
+
