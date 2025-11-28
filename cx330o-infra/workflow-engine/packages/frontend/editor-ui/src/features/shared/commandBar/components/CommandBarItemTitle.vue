@@ -79,3 +79,4 @@ defineProps<Props>();
 	flex-shrink: 0;
 }
 </style>
+
