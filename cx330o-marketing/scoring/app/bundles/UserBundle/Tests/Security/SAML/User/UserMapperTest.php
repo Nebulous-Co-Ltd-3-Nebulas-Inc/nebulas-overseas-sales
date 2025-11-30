@@ -81,3 +81,4 @@ class UserMapperTest extends TestCase
         $this->assertEquals('hello@there.com', $username);
     }
 }
+
