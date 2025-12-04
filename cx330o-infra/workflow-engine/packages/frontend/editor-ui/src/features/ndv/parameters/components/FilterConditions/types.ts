@@ -21,3 +21,4 @@ export type ConditionResult =
 			result: boolean;
 			resolved: FilterConditionValue;
 	  };
+
