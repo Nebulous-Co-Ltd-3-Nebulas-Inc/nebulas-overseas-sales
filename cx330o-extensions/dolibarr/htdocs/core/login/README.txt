@@ -26,3 +26,4 @@ If the function return true and login exists, login is accepted.
 
 
 See page https://wiki.dolibarr.org/index.php?title=Authentication,_SSO_and_SSL for more information.
+
