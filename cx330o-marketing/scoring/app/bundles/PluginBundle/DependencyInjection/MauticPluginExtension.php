@@ -20,3 +20,4 @@ class MauticPluginExtension extends Extension
         $loader->load('services.php');
     }
 }
+
