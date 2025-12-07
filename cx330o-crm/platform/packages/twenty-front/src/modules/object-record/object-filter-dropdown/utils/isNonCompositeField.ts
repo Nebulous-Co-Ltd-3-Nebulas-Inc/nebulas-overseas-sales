@@ -22,3 +22,4 @@ export const isNonCompositeField = (type: FieldType) => {
 
   return fieldIsSimpleValue;
 };
+
