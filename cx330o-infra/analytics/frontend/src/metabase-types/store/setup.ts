@@ -38,3 +38,4 @@ export interface SetupState {
   isTrackingAllowed: boolean;
   licenseToken?: string | null;
 }
+
