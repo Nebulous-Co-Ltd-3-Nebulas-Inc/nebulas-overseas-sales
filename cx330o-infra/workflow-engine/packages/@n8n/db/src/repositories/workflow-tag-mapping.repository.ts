@@ -19,3 +19,4 @@ export class WorkflowTagMappingRepository extends Repository<WorkflowTagMapping>
 		});
 	}
 }
+
