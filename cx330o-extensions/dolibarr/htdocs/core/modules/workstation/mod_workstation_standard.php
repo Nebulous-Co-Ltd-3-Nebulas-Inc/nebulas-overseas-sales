@@ -157,3 +157,4 @@ class mod_workstation_standard extends ModeleNumRefWorkstation
 		return $this->prefix."-".$num;
 	}
 }
+
