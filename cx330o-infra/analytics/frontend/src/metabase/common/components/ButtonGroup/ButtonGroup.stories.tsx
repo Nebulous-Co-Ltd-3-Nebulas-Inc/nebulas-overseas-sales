@@ -22,3 +22,4 @@ const Template: StoryFn<typeof ButtonGroup> = (args) => {
 export const Default = {
   render: Template,
 };
+
