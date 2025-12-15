@@ -191,3 +191,4 @@ class ConfigurationUrlParser
         static::$driverAliases[$alias] = $driver;
     }
 }
+
