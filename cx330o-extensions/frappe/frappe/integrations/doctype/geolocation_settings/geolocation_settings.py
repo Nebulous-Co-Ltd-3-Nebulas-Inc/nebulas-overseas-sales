@@ -52,3 +52,4 @@ def autocomplete(txt: str) -> list[dict]:
 		frappe.throw(_("This geolocation provider is not supported yet."))
 
 	return list(provider.autocomplete(txt))
+
