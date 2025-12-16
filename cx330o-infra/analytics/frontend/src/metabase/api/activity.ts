@@ -107,3 +107,4 @@ export function useListRecentsQuery<T extends boolean | undefined = undefined>(
     data?: ResultType[];
   };
 }
+
