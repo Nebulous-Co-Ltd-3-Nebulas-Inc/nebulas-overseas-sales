@@ -95,3 +95,4 @@ Swift_DependencyContainer::getInstance()
     ->register('address.utf8addressencoder')
     ->asNewInstanceOf('Swift_AddressEncoder_Utf8AddressEncoder')
 ;
+
