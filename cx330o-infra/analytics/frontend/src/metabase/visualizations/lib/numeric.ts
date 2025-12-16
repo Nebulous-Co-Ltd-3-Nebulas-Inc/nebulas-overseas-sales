@@ -87,3 +87,4 @@ export function computeChange(comparisonVal: number, currVal: number): number {
 
   return (currVal - comparisonVal) / Math.abs(comparisonVal);
 }
+
