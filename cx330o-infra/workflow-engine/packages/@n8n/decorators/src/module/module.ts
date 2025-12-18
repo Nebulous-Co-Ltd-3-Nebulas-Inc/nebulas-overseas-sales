@@ -116,3 +116,4 @@ export const BackendModule =
 		// eslint-disable-next-line @typescript-eslint/no-unsafe-return
 		return Service()(target);
 	};
+
