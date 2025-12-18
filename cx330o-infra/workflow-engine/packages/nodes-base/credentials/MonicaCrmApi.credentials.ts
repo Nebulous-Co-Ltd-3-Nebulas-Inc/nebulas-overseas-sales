@@ -45,3 +45,4 @@ export class MonicaCrmApi implements ICredentialType {
 		},
 	];
 }
+
