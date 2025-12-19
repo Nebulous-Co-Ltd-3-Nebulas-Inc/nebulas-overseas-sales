@@ -213,3 +213,4 @@
     (throw (ex-info "Application database calls are not allowed inside core.async dispatch pool threads."
                     {})))
   resolved-query)
+
