@@ -6,3 +6,4 @@ export const RatingFieldDisplay = ({ readonly }: { readonly?: boolean }) => {
 
   return <RatingInput value={rating} readonly={readonly} />;
 };
+
