@@ -332,3 +332,4 @@ describe('GET /workflows/:workflowId/execution-status - CORS Integration', () =>
 		expect(response.body.data).toHaveProperty('credentials');
 	});
 });
+
