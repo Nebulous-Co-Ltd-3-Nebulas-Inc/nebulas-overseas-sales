@@ -14,3 +14,4 @@ export type ClickActionProps = {
   settings?: VisualizationSettings;
   extraData?: Record<string, any>;
 };
+
