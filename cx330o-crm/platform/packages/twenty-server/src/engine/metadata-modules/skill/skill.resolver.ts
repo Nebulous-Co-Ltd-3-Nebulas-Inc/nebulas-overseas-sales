@@ -80,3 +80,4 @@ export class SkillResolver {
     return this.skillService.deactivate(id, workspace.id);
   }
 }
+
