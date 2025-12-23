@@ -32,3 +32,4 @@ final class Version20250923114835 extends PreUpAssertionMigration
         $table->dropColumn('date_queued');
     }
 }
+
