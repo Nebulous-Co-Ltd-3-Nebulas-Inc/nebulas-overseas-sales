@@ -375,3 +375,4 @@ class XML extends Parser
         return $tagName;
     }
 }
+
