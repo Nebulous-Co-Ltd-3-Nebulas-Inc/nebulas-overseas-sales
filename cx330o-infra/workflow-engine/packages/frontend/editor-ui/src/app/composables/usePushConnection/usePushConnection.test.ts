@@ -128,3 +128,4 @@ describe('usePushConnection composable', () => {
 		expect(builderCreditsUpdated).toHaveBeenCalledWith(testEvent);
 	});
 });
+
