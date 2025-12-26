@@ -240,3 +240,4 @@ class GrapesJsController extends CommonController
         return null;
     }
 }
+
