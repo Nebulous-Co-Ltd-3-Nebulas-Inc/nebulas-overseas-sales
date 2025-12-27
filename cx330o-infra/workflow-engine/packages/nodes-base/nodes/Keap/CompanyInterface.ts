@@ -10,3 +10,4 @@ export interface ICompany {
 	phone_number?: IDataObject;
 	website?: string;
 }
+
