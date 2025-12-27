@@ -65,3 +65,4 @@ describe('@BackendModule decorator', () => {
 		expect(options.class).toBe(TestModule);
 	});
 });
+
