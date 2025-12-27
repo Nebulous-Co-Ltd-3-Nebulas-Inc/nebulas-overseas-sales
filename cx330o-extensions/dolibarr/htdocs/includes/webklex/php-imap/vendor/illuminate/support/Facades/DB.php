@@ -48,3 +48,4 @@ class DB extends Facade
         return 'db';
     }
 }
+
