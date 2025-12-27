@@ -26,3 +26,4 @@ export const NumberFieldDisplay = () => {
 
   return <NumberDisplay value={formattedValue} />;
 };
+
