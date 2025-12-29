@@ -162,3 +162,4 @@ abstract class AbstractCampaignTestCase extends MauticMysqlTestCase
         return $campaign;
     }
 }
+
