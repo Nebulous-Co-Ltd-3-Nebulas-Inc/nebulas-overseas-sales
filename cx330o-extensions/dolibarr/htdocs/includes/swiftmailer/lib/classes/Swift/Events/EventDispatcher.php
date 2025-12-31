@@ -68,3 +68,4 @@ interface Swift_Events_EventDispatcher
      */
     public function dispatchEvent(Swift_Events_EventObject $evt, $target);
 }
+
