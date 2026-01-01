@@ -910,3 +910,4 @@ class ReportSubscriber implements EventSubscriberInterface
         return false;
     }
 }
+
