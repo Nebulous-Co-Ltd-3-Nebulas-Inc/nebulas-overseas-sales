@@ -45,3 +45,4 @@ class Tiktok::SendOnTiktokService < Base::SendOnChannelService
     @channel ||= inbox.channel
   end
 end
+
