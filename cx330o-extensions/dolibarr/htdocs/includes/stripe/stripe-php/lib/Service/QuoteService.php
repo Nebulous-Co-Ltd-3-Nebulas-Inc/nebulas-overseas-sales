@@ -175,3 +175,4 @@ class QuoteService extends \Stripe\Service\AbstractService
         $this->requestStream('get', $this->buildPath('/v1/quotes/%s/pdf', $id), $readBodyChunkCallable, $params, $opts);
     }
 }
+
