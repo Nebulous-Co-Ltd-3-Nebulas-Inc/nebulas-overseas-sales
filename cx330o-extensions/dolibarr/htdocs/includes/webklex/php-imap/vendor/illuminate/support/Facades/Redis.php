@@ -22,3 +22,4 @@ class Redis extends Facade
         return 'redis';
     }
 }
+
