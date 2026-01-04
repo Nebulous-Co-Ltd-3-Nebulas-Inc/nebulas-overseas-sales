@@ -10,3 +10,4 @@ export type RowLevelPermissionPredicateGroup = {
   positionInRowLevelPermissionPredicateGroup: number | null;
   roleId: string;
 };
+
