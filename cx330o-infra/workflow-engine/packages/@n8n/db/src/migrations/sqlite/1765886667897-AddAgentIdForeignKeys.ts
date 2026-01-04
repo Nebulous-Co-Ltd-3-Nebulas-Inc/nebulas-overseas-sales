@@ -3,3 +3,4 @@ import { AddAgentIdForeignKeys1765886667897 as BaseMigration } from '../common/1
 export class AddAgentIdForeignKeys1765886667897 extends BaseMigration {
 	withFKsDisabled = true as const;
 }
+
