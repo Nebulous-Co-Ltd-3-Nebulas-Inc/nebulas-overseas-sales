@@ -280,3 +280,4 @@ export const getHasDismissedCustomHomePageToast = (state: State) => {
 
 export const getIsErrorDiagnosticModalOpen = (state: State) =>
   state.app.isErrorDiagnosticsOpen;
+
