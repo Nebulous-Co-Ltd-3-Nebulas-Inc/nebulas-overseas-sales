@@ -66,3 +66,4 @@ export class SecurityAudit extends BaseCommand<z.infer<typeof flagsSchema>> {
 		this.logger.error(error.message);
 	}
 }
+
