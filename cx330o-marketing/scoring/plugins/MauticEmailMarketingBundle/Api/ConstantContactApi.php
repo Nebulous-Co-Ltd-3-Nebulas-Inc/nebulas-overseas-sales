@@ -66,3 +66,4 @@ class ConstantContactApi extends EmailMarketingApi
         return $this->request('contacts', $parameters, 'POST', $query);
     }
 }
+
