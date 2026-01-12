@@ -7,3 +7,4 @@ export const shouldCompactRecordTableFirstColumnComponentState =
     defaultValue: false,
     componentInstanceContext: RecordTableComponentInstanceContext,
   });
+
