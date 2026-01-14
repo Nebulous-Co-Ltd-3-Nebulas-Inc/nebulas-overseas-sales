@@ -18,3 +18,4 @@ class MarketSegment(Document):
 	# end: auto-generated types
 
 	pass
+
