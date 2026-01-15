@@ -71,3 +71,4 @@ export interface InstanceStorage {
 	 */
 	destroy(): Promise<void>;
 }
+
