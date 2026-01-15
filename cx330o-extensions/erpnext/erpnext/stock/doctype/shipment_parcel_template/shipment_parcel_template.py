@@ -23,3 +23,4 @@ class ShipmentParcelTemplate(Document):
 	# end: auto-generated types
 
 	pass
+
