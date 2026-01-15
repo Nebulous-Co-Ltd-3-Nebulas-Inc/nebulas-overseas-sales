@@ -12,3 +12,4 @@ export type QueryVariables = {
   endingBefore?: string;
   input?: object;
 };
+
