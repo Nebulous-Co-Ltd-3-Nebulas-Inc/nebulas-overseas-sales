@@ -128,3 +128,4 @@ def get_dates_from_timegrain(from_date, to_date, timegrain):
 		date = get_period_ending(add_to_date(dates[-1], years=years, months=months, days=days), timegrain)
 		dates.append(date)
 	return dates
+
