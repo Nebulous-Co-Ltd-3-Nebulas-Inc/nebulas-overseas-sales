@@ -57,3 +57,4 @@ export const LegendRightContent = styled.div`
   margin-left: auto;
   align-items: center;
 `;
+
