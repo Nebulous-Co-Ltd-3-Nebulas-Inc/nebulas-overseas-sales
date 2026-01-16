@@ -28,3 +28,4 @@ export const workspaceMemberFormatPreferencesState =
       calendarStartDay: CalendarStartDay[detectCalendarStartDay()],
     },
   });
+
