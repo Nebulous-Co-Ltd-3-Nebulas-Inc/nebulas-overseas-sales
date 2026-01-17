@@ -113,3 +113,4 @@ if ($object->id > 0 && $field && isset($value)) {
 }
 
 $db->close();
+
