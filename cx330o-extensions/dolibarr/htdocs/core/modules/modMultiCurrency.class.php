@@ -311,3 +311,4 @@ class modMultiCurrency extends DolibarrModules
 		return 1;
 	}
 }
+
