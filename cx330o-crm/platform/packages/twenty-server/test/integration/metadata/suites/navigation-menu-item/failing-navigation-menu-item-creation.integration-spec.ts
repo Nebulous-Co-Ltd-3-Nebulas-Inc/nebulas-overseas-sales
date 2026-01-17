@@ -112,3 +112,4 @@ describe('NavigationMenuItem creation should fail', () => {
     },
   );
 });
+
