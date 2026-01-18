@@ -567,3 +567,4 @@ export function getAllFields(object: string) {
 		.filter((field: IDataObject) => field.value !== '*')
 		.map((field: IDataObject) => field.value);
 }
+
