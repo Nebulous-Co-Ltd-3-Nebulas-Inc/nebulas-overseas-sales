@@ -87,3 +87,4 @@ const ForgotPasswordDisabled = (): JSX.Element => {
     </InfoBody>
   );
 };
+
