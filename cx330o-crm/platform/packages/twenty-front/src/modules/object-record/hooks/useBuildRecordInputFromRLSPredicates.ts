@@ -198,3 +198,4 @@ export const useBuildRecordInputFromRLSPredicates = ({
 
   return { buildRecordInputFromRLSPredicates };
 };
+
