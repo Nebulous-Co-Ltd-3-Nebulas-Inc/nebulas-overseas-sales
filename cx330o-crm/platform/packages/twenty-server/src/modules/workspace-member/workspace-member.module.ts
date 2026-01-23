@@ -11,3 +11,4 @@ import { WorkspaceMemberAvatarFileDeletionListener } from 'src/modules/workspace
   providers: [WorkspaceMemberAvatarFileDeletionListener],
 })
 export class WorkspaceMemberModule {}
+
