@@ -120,3 +120,4 @@ export async function saveMessagesToThread(
 	await memory.saveThread({ id: threadId, resourceId });
 	await memory.saveMessages({ threadId, resourceId, messages });
 }
+
