@@ -38,3 +38,4 @@ final class JsControllerTest extends MauticMysqlTestCase
         Assert::assertStringContainsString('gtag(\'config\',\'G-F3825DS9CD\',{"anonymize_ip":!0})', $this->client->getResponse()->getContent());
     }
 }
+
