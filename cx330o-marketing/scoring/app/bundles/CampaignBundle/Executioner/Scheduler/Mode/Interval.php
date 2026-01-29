@@ -358,3 +358,4 @@ class Interval implements ScheduleModeInterface
         return $groupExecutionDate;
     }
 }
+
