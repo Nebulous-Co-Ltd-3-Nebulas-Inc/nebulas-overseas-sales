@@ -30,3 +30,4 @@ export class CreateWorkflowVersionEdgeInput {
   })
   sourceConnectionOptions?: WorkflowStepConnectionOptions;
 }
+
