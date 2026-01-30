@@ -185,3 +185,4 @@ export const ALL_ICON_PICKER_ICONS: IconName[] = [
 	'toolbox',
 	'spinner',
 ];
+
