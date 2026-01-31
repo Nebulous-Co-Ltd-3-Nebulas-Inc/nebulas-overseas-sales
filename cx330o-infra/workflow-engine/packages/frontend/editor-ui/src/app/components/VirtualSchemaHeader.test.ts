@@ -363,3 +363,4 @@ describe('VirtualSchemaHeader.vue', () => {
 		});
 	});
 });
+
