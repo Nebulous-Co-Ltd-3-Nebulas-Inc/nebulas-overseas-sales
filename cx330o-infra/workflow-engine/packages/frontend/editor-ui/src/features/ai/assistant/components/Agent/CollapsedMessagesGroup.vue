@@ -231,3 +231,4 @@ function toggleExpanded() {
 	opacity: 0.65;
 }
 </style>
+
