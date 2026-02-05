@@ -15,3 +15,4 @@ export * as getCatalog from './getCatalog.operation';
 export * as updateCatalog from './updateCatalog.operation';
 export * as deleteCatalog from './deleteCatalog.operation';
 export * as listCatalogs from './listCatalogs.operation';
+
