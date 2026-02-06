@@ -116,3 +116,4 @@ select
     timestamp as event_timestamp
     from timeline_event event
         left join timeline on event.timeline_id = timeline.id
+
