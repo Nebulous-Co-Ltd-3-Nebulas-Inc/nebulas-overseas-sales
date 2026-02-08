@@ -24,3 +24,4 @@ export function useCompletions(state: EditorState) {
   // when pending render the previous completions to avoid flickering
   return completions.status === "pending" ? prevCompletions : completions;
 }
+
