@@ -391,3 +391,4 @@ cur_frm.cscript.item_code = function (doc, cdt, cdn) {
 		});
 	}
 };
+
