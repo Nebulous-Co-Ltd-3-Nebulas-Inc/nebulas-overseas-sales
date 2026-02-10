@@ -61,3 +61,4 @@ export class AppDevCommand {
     process.on('SIGTERM', shutdown);
   }
 }
+
