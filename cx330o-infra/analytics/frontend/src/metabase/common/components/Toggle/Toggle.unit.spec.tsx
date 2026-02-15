@@ -52,3 +52,4 @@ describe("Toggle", () => {
     expect(onChange).toHaveBeenCalledWith(true);
   });
 });
+
