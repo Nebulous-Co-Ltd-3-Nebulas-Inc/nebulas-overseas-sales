@@ -101,3 +101,4 @@ export const Truncated = {
     lineClamp: 2,
   },
 };
+
