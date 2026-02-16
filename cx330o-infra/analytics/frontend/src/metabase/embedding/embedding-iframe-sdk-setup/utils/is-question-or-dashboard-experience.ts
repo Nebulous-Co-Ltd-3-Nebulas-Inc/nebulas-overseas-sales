@@ -4,3 +4,4 @@ export const isQuestionOrDashboardExperience = (
   experience: SdkIframeEmbedSetupExperience,
 ): experience is "dashboard" | "chart" =>
   ["dashboard", "chart"].includes(experience);
+
