@@ -18,3 +18,4 @@ export enum BillingWebhookEvent {
   CREDIT_GRANT_CREATED = 'billing.credit_grant.created',
   CREDIT_GRANT_UPDATED = 'billing.credit_grant.updated',
 }
+
