@@ -108,3 +108,4 @@ describe('View Filter Group update should succeed', () => {
     });
   });
 });
+
