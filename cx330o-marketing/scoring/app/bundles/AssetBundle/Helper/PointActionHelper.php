@@ -17,3 +17,4 @@ class PointActionHelper
         return true;
     }
 }
+
