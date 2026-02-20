@@ -38,3 +38,4 @@ def get_brand_defaults(item, company):
 				return row
 
 	return frappe._dict()
+
