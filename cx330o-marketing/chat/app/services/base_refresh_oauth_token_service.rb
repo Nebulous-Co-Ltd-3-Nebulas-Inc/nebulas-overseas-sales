@@ -60,3 +60,4 @@ class BaseRefreshOauthTokenService
     )
   end
 end
+
