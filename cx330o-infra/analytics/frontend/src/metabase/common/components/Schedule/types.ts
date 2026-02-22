@@ -15,3 +15,4 @@ export type ScheduleDefaults = Record<
   ScheduleType,
   Required<Omit<ScheduleSettings, "schedule_type">>
 >;
+
