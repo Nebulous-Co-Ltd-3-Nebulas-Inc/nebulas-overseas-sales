@@ -832,3 +832,4 @@ def get_inv_dimension_wise_value(filters) -> list:
 		inv_dimension_key["project"] = filters.get("project")
 
 	return inv_dimension_key
+
