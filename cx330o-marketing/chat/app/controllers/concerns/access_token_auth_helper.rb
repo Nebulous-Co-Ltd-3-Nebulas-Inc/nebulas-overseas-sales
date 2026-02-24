@@ -37,3 +37,4 @@ module AccessTokenAuthHelper
     BOT_ACCESSIBLE_ENDPOINTS.fetch(params[:controller], []).include?(params[:action])
   end
 end
+
