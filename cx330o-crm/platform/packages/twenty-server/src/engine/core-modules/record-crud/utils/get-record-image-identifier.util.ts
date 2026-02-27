@@ -88,3 +88,4 @@ export const getRecordImageIdentifier = ({
 
   return rawImageValue;
 };
+
