@@ -7,3 +7,4 @@ class ChangeIdentifierTypeInNotificationsSubscriptions < ActiveRecord::Migration
     change_column :notification_subscriptions, :identifier, :string
   end
 end
+
