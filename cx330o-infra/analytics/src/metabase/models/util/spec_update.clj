@@ -282,3 +282,4 @@
   [existing-data new-data spec :- ::Spec]
   (t2/with-transaction []
     (do-update!* existing-data new-data spec ["root"])))
+
