@@ -93,3 +93,4 @@ export function isIfElseComposite(value: unknown): boolean {
 	if (value === null || typeof value !== 'object') return false;
 	return 'ifNode' in value && 'trueBranch' in value;
 }
+
