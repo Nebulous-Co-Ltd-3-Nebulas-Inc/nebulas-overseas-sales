@@ -36,3 +36,4 @@ final class EventTest extends TestCase
         $this->assertEquals(new \DateTime(self::DATE), $event->getTriggerHour());
     }
 }
+
