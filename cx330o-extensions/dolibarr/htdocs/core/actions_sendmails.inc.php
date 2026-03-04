@@ -540,3 +540,4 @@ if (($action == 'send' || $action == 'relance') && !GETPOST('addfile') && !GETPO
 		$action = 'presend';
 	}
 }
+
