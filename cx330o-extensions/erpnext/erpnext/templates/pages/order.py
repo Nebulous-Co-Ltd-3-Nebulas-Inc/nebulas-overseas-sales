@@ -80,3 +80,4 @@ def get_payment_details(doc):
 
 	amount = get_amount(doc)
 	return bool(amount), amount
+
