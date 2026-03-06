@@ -52,3 +52,4 @@ describe('renameFormFields', () => {
 		expect(mockMapping).toBeCalledTimes(5);
 	});
 });
+
