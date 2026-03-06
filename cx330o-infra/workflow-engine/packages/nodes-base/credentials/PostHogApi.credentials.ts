@@ -23,3 +23,4 @@ export class PostHogApi implements ICredentialType {
 		},
 	];
 }
+
