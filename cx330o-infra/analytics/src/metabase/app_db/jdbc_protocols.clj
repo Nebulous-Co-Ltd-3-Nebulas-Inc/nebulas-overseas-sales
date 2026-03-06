@@ -198,3 +198,4 @@
     (fn get-citext-as-string []
       (.getString rset i))
     (next-method conn model rset rsmeta i)))
+
