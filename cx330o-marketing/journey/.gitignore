@@ -154,3 +154,4 @@ mnt/*
 .playwright-mcp/
 playwright-report/
 test-results/
+
