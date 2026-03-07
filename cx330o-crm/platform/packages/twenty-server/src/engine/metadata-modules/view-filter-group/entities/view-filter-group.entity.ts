@@ -76,3 +76,4 @@ export class ViewFilterGroupEntity extends SyncableEntity {
   )
   childViewFilterGroups: Relation<ViewFilterGroupEntity[]>;
 }
+
