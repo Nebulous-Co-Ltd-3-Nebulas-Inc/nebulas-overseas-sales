@@ -57,3 +57,4 @@ class ReportWidgetType extends AbstractType
         }
     }
 }
+
