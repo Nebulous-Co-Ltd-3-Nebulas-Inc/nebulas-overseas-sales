@@ -10,3 +10,4 @@ export const getBodyData = (message: gmailV1.Schema$Message) => {
   return firstPart?.parts?.find((part) => part.mimeType === 'text/plain')?.body
     ?.data;
 };
+
