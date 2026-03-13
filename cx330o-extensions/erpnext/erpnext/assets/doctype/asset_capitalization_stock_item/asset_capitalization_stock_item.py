@@ -34,3 +34,4 @@ class AssetCapitalizationStockItem(Document):
 	# end: auto-generated types
 
 	pass
+
