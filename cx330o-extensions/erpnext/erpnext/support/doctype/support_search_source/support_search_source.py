@@ -34,3 +34,4 @@ class SupportSearchSource(Document):
 	# end: auto-generated types
 
 	pass
+
