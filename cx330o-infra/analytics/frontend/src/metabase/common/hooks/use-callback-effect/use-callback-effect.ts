@@ -39,3 +39,4 @@ export const useCallbackEffect = (): [IsScheduled, ScheduleCallback] => {
 
   return [isCallbackScheduled, scheduleCallback];
 };
+
