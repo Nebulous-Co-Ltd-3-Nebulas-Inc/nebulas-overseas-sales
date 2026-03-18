@@ -15,3 +15,4 @@ export const copyBuilder = async (buildDirectory: string) => {
   await fs.mkdir(buildDirectory, { recursive: true });
   await fs.cp(BUILDER_FILE_PATH, buildDirectory, { recursive: true });
 };
+
