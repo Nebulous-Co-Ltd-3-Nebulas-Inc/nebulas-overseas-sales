@@ -1109,3 +1109,4 @@ class Mailbox
         $this->disconnect();
     }
 }
+
