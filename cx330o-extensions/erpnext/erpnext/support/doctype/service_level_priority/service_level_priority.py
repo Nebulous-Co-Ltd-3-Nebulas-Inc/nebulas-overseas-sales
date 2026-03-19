@@ -25,3 +25,4 @@ class ServiceLevelPriority(Document):
 	# end: auto-generated types
 
 	pass
+
