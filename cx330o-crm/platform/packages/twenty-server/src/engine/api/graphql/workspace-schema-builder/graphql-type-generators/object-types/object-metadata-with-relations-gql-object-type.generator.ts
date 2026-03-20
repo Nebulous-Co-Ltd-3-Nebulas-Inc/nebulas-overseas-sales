@@ -189,3 +189,4 @@ export class ObjectMetadataWithRelationsGqlObjectTypeGenerator {
     return targetObjectMetadataGqlObjectType;
   }
 }
+
