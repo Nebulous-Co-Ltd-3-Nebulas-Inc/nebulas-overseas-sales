@@ -6,3 +6,4 @@ interface ColumnFormatGlyphFactory
 {
     public function getGlyph($codePoint);
 }
+
