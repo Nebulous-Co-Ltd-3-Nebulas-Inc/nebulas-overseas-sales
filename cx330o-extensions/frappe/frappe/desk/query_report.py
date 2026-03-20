@@ -1058,3 +1058,4 @@ def translate_report_data(data, total_row: bool):
 			if isinstance(value, str):
 				d[field] = _(value)
 	return data
+
