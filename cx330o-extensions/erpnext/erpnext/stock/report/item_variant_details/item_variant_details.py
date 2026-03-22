@@ -215,3 +215,4 @@ def get_attribute_values_map(variant_list):
 		attr_val_map[name][row.get("attribute")] = row.get("attribute_value")
 
 	return attr_val_map
+
