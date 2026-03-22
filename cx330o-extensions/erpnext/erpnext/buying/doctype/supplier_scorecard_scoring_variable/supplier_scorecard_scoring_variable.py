@@ -25,3 +25,4 @@ class SupplierScorecardScoringVariable(Document):
 	# end: auto-generated types
 
 	pass
+
