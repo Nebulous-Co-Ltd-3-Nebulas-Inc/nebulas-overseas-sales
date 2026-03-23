@@ -3,3 +3,4 @@ class EnsureMessagePrivateNotNull < ActiveRecord::Migration[7.0]
     change_column_null :messages, :private, false, false
   end
 end
+
