@@ -333,3 +333,4 @@ export const getAllowedDomains = (
 
 	return undefined;
 };
+
