@@ -42,3 +42,4 @@ const getProps = (
   collection: createMockCollection(),
   ...opts,
 });
+
