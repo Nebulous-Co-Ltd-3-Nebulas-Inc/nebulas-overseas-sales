@@ -21,3 +21,4 @@ frappe.ui.form.on("Custom HTML Block", {
 		frappe.create_shadow_element(wrapper, frm.doc.html, frm.doc.style, frm.doc.script);
 	},
 });
+
