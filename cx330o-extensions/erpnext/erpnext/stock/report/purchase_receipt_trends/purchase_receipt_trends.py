@@ -54,3 +54,4 @@ def get_chart_data(data, filters):
 		"colors": ["#5e64ff"],
 		"fieldtype": "Currency",
 	}
+
