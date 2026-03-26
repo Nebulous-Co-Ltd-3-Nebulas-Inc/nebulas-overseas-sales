@@ -221,3 +221,4 @@ class TypeExporter:
 						# If someone really needs it, add support via hooks.
 						self.indent = " " * 4
 					break
+
