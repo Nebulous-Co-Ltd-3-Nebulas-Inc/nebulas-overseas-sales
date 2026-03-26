@@ -2203,3 +2203,4 @@ export class Mailchimp implements INodeType {
 		return [returnData];
 	}
 }
+
