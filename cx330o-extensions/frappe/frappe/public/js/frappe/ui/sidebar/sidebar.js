@@ -746,3 +746,4 @@ frappe.ui.Sidebar = class Sidebar {
 		return sidebars;
 	}
 };
+
