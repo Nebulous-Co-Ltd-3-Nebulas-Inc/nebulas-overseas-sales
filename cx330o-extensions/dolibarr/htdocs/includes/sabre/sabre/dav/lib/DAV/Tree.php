@@ -328,3 +328,4 @@ class Tree implements INodeByPath
         }
     }
 }
+
