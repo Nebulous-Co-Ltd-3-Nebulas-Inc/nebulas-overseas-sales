@@ -266,3 +266,4 @@ def is_party_name_visible(filters):
 		show_party_name = True
 
 	return show_party_name
+
