@@ -200,3 +200,4 @@ def delete_custom_role(field, docname):
 	name = frappe.db.get_value("Custom Role", {field: docname}, "name")
 	if name:
 		frappe.delete_doc("Custom Role", name)
+
