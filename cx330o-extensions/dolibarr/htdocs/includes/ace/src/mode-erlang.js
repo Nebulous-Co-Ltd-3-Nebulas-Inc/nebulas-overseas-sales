@@ -5,3 +5,4 @@ define("ace/mode/erlang_highlight_rules",["require","exports","module","ace/lib/
                         }
                     });
                 })();
+
