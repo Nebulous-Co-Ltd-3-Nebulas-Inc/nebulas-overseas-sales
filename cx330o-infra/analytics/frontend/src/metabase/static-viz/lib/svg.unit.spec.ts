@@ -81,3 +81,4 @@ describe("patchDominantBaseline", () => {
     expect(nodes[DEEPLY_NESTED].properties.dy).toBe("0.5em");
   });
 });
+
