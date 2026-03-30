@@ -21,3 +21,4 @@ class Api::V1::Accounts::Google::AuthorizationsController < Api::V1::Accounts::O
     end
   end
 end
+
