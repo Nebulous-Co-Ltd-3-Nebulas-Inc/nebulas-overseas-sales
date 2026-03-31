@@ -3,3 +3,4 @@ export const mapByProperty =
   (itemToMap: T) => {
     return itemToMap[propertyName];
   };
+
