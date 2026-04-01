@@ -23,3 +23,4 @@ import { WorkspaceVersionModule } from 'src/engine/workspace-manager/workspace-v
   providers: [UpgradeCommand],
 })
 export class UpgradeVersionCommandModule {}
+
