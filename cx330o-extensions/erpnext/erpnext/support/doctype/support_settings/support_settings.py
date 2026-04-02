@@ -34,3 +34,4 @@ class SupportSettings(Document):
 	# end: auto-generated types
 
 	pass
+
