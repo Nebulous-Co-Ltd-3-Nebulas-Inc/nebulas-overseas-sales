@@ -4,3 +4,4 @@ export enum DatabaseTriggerDefaultLabel {
   RECORD_IS_DELETED = 'Record is deleted',
   RECORD_UPSERTED = 'Record is created or updated',
 }
+
