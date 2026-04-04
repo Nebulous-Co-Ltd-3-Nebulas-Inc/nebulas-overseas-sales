@@ -73,3 +73,4 @@ class TestAccountingDimension(ERPNextTestSuite):
 
 		si.save()
 		self.assertRaises(frappe.ValidationError, si.submit)
+
