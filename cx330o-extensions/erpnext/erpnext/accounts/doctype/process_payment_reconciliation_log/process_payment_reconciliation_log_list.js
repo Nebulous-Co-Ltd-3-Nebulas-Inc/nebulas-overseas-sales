@@ -13,3 +13,4 @@ frappe.listview_settings["Process Payment Reconciliation Log"] = {
 		return [__(status), colors[status], "status,=," + status];
 	},
 };
+
