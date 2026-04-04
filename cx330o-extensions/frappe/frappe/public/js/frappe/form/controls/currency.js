@@ -13,3 +13,4 @@ frappe.ui.form.ControlCurrency = class ControlCurrency extends frappe.ui.form.Co
 		return this.df.precision;
 	}
 };
+
