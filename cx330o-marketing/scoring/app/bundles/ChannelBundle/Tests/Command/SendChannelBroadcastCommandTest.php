@@ -21,3 +21,4 @@ final class SendChannelBroadcastCommandTest extends MauticMysqlTestCase
         Assert::assertSame(0, $commandTester->getStatusCode());
     }
 }
+
