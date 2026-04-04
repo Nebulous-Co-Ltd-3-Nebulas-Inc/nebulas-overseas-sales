@@ -45,3 +45,4 @@ export class OtelTestProvider {
 		trace.disable();
 	}
 }
+
