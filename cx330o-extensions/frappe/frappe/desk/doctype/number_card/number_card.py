@@ -264,3 +264,4 @@ def add_card_to_dashboard(args: str | dict[str, Any]):
 
 	dashboard.append("cards", dashboard_link)
 	dashboard.save()
+
