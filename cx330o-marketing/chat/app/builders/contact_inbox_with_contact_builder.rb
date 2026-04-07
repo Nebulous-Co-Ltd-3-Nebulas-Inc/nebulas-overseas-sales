@@ -108,3 +108,4 @@ class ContactInboxWithContactBuilder
     account.contacts.find_by(phone_number: phone_number)
   end
 end
+
