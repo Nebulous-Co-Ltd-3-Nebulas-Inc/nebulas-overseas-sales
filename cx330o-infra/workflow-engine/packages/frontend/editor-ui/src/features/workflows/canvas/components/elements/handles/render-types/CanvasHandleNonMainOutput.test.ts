@@ -23,3 +23,4 @@ describe('CanvasHandleNonMainOutput', () => {
 		expect(getByText(label)).toBeInTheDocument();
 	});
 });
+
