@@ -275,3 +275,4 @@ class TestPackedItem(ERPNextTestSuite):
 		for d in expected_returns:
 			d.qty /= 2
 		self.assertReturns(expected_returns, dn_ret.packed_items)
+
