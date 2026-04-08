@@ -479,3 +479,4 @@ export default class WebForm extends frappe.ui.FieldGroup {
 		}
 	}
 }
+
