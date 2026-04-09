@@ -32,3 +32,4 @@ export class ExecutionRedactionServiceProxy implements ExecutionRedaction {
 		await this.executionRedaction.processExecutions(executions, options);
 	}
 }
+
