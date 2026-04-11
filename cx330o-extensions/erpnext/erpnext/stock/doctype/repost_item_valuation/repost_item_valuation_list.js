@@ -25,3 +25,4 @@ frappe.listview_settings["Repost Item Valuation"] = {
 		});
 	},
 };
+
