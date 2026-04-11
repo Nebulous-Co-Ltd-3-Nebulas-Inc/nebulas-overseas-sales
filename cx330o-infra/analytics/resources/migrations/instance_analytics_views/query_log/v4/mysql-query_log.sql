@@ -29,3 +29,4 @@ SELECT id AS entity_id,
        query
 FROM query_execution
     LEFT JOIN query ON query_execution.hash = query.query_hash;
+
