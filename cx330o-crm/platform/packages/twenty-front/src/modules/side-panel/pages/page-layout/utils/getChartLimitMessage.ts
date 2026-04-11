@@ -45,3 +45,4 @@ export const getChartLimitMessage = ({
 
   return t`Undisplayed data: max ${maxItems} slices per chart.`;
 };
+
