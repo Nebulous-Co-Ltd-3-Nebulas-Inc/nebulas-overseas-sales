@@ -43,3 +43,4 @@ class Transaction extends \Stripe\ApiResource
     use \Stripe\ApiOperations\Retrieve;
     use \Stripe\ApiOperations\Update;
 }
+
