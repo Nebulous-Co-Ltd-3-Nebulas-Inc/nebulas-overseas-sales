@@ -26,3 +26,4 @@ class DocTypeAction(Document):
 	# end: auto-generated types
 
 	pass
+
