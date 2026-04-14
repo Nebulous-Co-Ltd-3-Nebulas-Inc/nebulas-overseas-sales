@@ -341,3 +341,4 @@ def add_workspace_to_desktop(workspace: str):
 	new_icon.link_type = "Workspace Sidebar"
 	new_icon.insert()
 	return {"icon": new_icon.as_dict()}
+
