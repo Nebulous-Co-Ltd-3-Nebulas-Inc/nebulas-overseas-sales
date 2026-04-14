@@ -145,3 +145,4 @@ describe('MicrosoftExcelOAuth2Api Credential', () => {
 		});
 	});
 });
+
