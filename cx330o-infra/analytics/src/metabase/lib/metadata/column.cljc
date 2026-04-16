@@ -36,3 +36,4 @@
       (case version
         1 #(= (:lib/desired-column-alias %) column-key))
       (lib.metadata.calculation/returned-columns query stage-number)))))
+
