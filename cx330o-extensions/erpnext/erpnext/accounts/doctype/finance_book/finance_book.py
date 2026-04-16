@@ -18,3 +18,4 @@ class FinanceBook(Document):
 	# end: auto-generated types
 
 	pass
+
