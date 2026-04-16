@@ -174,3 +174,4 @@ def update_user_settings(doctype, old_fieldname, new_fieldname):
 
 	for user_setting in user_settings:
 		update_user_settings_data(user_setting, "docfield", old_fieldname, new_fieldname)
+
