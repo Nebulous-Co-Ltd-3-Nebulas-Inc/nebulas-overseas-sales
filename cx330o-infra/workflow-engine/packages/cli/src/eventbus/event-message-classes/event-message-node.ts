@@ -53,3 +53,4 @@ export class EventMessageNode extends AbstractEventMessage {
 		return this;
 	}
 }
+
