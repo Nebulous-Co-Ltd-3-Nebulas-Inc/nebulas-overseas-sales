@@ -90,3 +90,4 @@
   (events/publish-event! :event/notification-unsubscribe-undo-ex {:details {:email email}
                                                                   :object {:id notification-handler-id}})
   {:status :success :title (notification-name-by-handler-id notification-handler-id)})
+
