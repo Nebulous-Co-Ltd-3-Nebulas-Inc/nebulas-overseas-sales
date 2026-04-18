@@ -52,3 +52,4 @@ class WebhookRequestEvent extends Event
         return $this->contact;
     }
 }
+
