@@ -88,3 +88,4 @@ class TokenCache(Document):
 			"expires_in": self.get_expires_in(),
 			"token_type": self.token_type,
 		}
+
