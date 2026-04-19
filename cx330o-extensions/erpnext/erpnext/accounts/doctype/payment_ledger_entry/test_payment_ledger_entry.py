@@ -531,3 +531,4 @@ class TestPaymentLedgerEntry(ERPNextTestSuite):
 		# with references removed, deletion should be possible
 		so.delete()
 		self.assertRaises(frappe.DoesNotExistError, frappe.get_doc, so.doctype, so.name)
+
