@@ -24,3 +24,4 @@ export const SETTINGS_SKILL_TABLE_METADATA: TableMetadata<Skill> = {
     orderBy: 'AscNullsLast',
   },
 };
+
