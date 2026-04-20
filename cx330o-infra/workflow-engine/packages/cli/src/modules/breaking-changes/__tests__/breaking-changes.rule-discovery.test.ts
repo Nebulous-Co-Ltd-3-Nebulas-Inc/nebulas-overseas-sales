@@ -36,3 +36,4 @@ describe('Breaking change rules auto-discovery', () => {
 		expect(new Set(ids).size).toBe(ids.length);
 	});
 });
+
