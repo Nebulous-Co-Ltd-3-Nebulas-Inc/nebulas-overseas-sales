@@ -11,3 +11,4 @@ export const getDataResidencyDisplay = (residency: string): string => {
 
   return `🌐 ${residency.toUpperCase()}`;
 };
+
