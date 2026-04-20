@@ -116,3 +116,4 @@ if (isModEnabled('multicurrency')) {
 
 print '<!-- END template -->';
 
+
