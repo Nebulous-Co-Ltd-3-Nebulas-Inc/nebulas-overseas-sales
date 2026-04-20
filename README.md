@@ -31,13 +31,13 @@ nebulas-dashboard (:80) → Unified Login + PWA + GDPR Consent
     │
     ├── nebulas-leadgen/core   → Multi-source Lead Scraping
     ├── nebulas-outreach/core  → AI Cold Email + Voice Pipeline
-    ├── nebulas-contracts/     → E-Signature (DocuSeal)
-    ├── nebulas-payments/      → Payment Gateway (Hyperswitch)
-    ├── nebulas-crm/core       → Customer Management (Twenty CRM)
+    ├── nebulas-contracts/     → E-Signature Platform
+    ├── nebulas-payments/      → Payment Gateway (50+ processors)
+    ├── nebulas-crm/core       → Customer Management
     ├── nebulas-marketing/core → Omnichannel Marketing + Page Builder
-    ├── nebulas-experiments/   → A/B Testing (GrowthBook)
+    ├── nebulas-experiments/   → A/B Testing + Feature Flags
     ├── nebulas-voip/          → Video Calls + AI Voice Agent
-    ├── nebulas-privacy/       → GDPR/CCPA Compliance (Klaro)
+    ├── nebulas-privacy/       → GDPR/CCPA Compliance
     ├── nebulas-i18n/          → 50+ Languages + 135 Currencies
     └── nebulas-plugins/       → Social CRM (WhatsApp/IG/TG/LINE)
 ```
@@ -97,19 +97,19 @@ Wait ~60 seconds for all services to initialize, then open:
 |-------|-------------|
 | AI / ML | Python, LangChain, LangGraph, Groq, OpenAI, ChromaDB |
 | Backend | Node.js, Express, Go, Rust, Ruby on Rails, PHP |
-| Frontend | Next.js 15, React 19, TypeScript, Tailwind CSS, GrapesJS |
+| Frontend | Next.js 15, React 19, TypeScript, Tailwind CSS |
 | Database | PostgreSQL, MongoDB, Redis, ClickHouse |
-| Infrastructure | Docker, Nginx, Temporal (workflow scheduling) |
-| Workflow | Custom FlowEngine (n8n-based, 400+ integrations) |
-| Analytics | Metabase (AI-powered BI dashboards) |
-| CRM | Twenty CRM (full-featured, open-source) |
-| Marketing | Dittofeed (journey), Listmonk (mailer), Chatwoot (chat), Mautic (scoring) |
-| Payments | Hyperswitch (Rust-based, 50+ payment processors, 135+ currencies) |
-| Contracts | DocuSeal (e-signature, multi-party signing, eIDAS compliant) |
-| Experiments | GrowthBook (A/B testing, feature flags, Bayesian statistics) |
-| VoIP | MiroTalk (WebRTC video, up to 8K) + Bolna (AI voice agent) |
-| Privacy | Klaro.js (GDPR/CCPA/LGPD consent management) |
-| i18n | i18next (50+ languages, RTL support, SSR-friendly) |
+| Infrastructure | Docker, Nginx, Temporal |
+| Workflow | Custom FlowEngine (400+ integrations) |
+| Analytics | Custom BI Dashboard (AI-powered queries) |
+| CRM | Full-featured CRM Platform |
+| Marketing | Journey Builder, High-performance Mailer (Go), Live Chat, Lead Scoring |
+| Payments | Rust-based Payment Router (50+ processors, 135+ currencies) |
+| Contracts | E-Signature Platform (multi-party signing, eIDAS compliant) |
+| Experiments | A/B Testing + Feature Flags (Bayesian statistics) |
+| VoIP | WebRTC Video Conferencing (up to 8K) + AI Voice Agent |
+| Privacy | GDPR/CCPA/LGPD Consent Management |
+| i18n | 50+ Languages, RTL support, SSR-friendly |
 | Social CRM | WhatsApp, Instagram, Telegram, LINE plugins |
 
 ## Modules
@@ -125,11 +125,11 @@ Wait ~60 seconds for all services to initialize, then open:
 | Experiments | `nebulas-experiments/` | A/B testing & feature flags | Node.js, MongoDB |
 | VoIP | `nebulas-voip/` | Video conferencing + AI voice agent | Node.js, Python, WebRTC |
 | Privacy | `nebulas-privacy/` | GDPR/CCPA/LGPD compliance suite | JavaScript |
-| i18n | `nebulas-i18n/` | Multi-language + multi-currency framework | JavaScript, i18next |
+| i18n | `nebulas-i18n/` | Multi-language + multi-currency framework | JavaScript |
 | Infra | `nebulas-infra/` | Workflow orchestration and analytics | PostgreSQL, Docker |
 | Dashboard | `nebulas-dashboard/` | Unified login portal with SSO + PWA | Express, Nginx |
 | Plugins | `nebulas-plugins/` | Social CRM for 4 platforms | Next.js, TypeScript |
-| Extensions | `nebulas-extensions/` | ERP & HR modules (Dolibarr, ERPNext, Frappe) | Python, PHP |
+| Extensions | `nebulas-extensions/` | ERP & HR modules | Python, PHP |
 
 ## Docker Compose Profiles
 
@@ -137,10 +137,10 @@ Wait ~60 seconds for all services to initialize, then open:
 |---------|---------------|-------|
 | (default) | Dashboard, FlowEngine, Analytics, CRM, PDF Generator, Email Parser | :80-83, :3002-3003 |
 | `marketing` | Journey Builder, Mailer, Live Chat, Lead Scoring | :8080 |
-| `contracts` | DocuSeal (e-signature) + PostgreSQL | :84 |
-| `payments` | Hyperswitch (payment router + control center + web SDK) | :85, :8180, :9050 |
-| `experiments` | GrowthBook (A/B testing + feature flags) + MongoDB | :86, :3100 |
-| `voip` | MiroTalk (video) + Bolna (AI voice) | :87, :5001 |
+| `contracts` | E-Signature + PostgreSQL | :84 |
+| `payments` | Payment Router + Control Center + Web SDK | :85, :8180, :9050 |
+| `experiments` | A/B Testing + Feature Flags + MongoDB | :86, :3100 |
+| `voip` | Video Engine + AI Voice Agent | :87, :5001 |
 | `all` | Everything above | All ports |
 
 ## Project Structure
@@ -149,40 +149,40 @@ Wait ~60 seconds for all services to initialize, then open:
 nebulas-overseas-sales/
 ├── nebulas-leadgen/          # Lead generation & scraping
 │   ├── core/                 #   Main async pipeline
-│   ├── harvester/            #   OSINT intelligence engine (theHarvester)
+│   ├── harvester/            #   OSINT intelligence engine
 │   ├── maps-scraper/         #   Google Maps review parser
 │   ├── web-scraper/          #   Playwright async web scraper
 │   └── enricher/             #   LLM-powered data enrichment
 ├── nebulas-outreach/         # AI cold outreach
 │   ├── core/                 #   Research → scoring → email pipeline
-│   ├── sales-agent/          #   8-stage conversational AI (SalesGPT)
+│   ├── sales-agent/          #   8-stage conversational AI agent
 │   ├── email-automations/    #   Multi-agent collaboration (analyst + writer)
 │   ├── email-manager/        #   Template management & scheduling
-│   ├── email-generator/      #   Fast LLM inference (Groq + ChromaDB)
+│   ├── email-generator/      #   Fast LLM inference email generation
 │   └── workflow/             #   LangGraph state machine with routing
-├── nebulas-contracts/        # E-signature platform (DocuSeal)
-├── nebulas-payments/         # Payment gateway (Hyperswitch, 50+ connectors)
+├── nebulas-contracts/        # E-signature platform
+├── nebulas-payments/         # Payment gateway (50+ connectors)
 ├── nebulas-crm/              # Customer relationship management
 │   ├── core/                 #   Docker deployment + extensions
-│   ├── platform/             #   Full CRM system (Twenty CRM)
+│   ├── platform/             #   Full CRM system
 │   ├── erp-extensions/       #   PDF invoice/quote generation
 │   └── email-crm/            #   Inbound email parsing (Laravel)
 ├── nebulas-marketing/        # Marketing automation
 │   ├── core/                 #   Unified API gateway
-│   ├── journey/              #   Customer journey builder (Dittofeed)
-│   ├── mailer/               #   High-performance email engine (Go, Listmonk)
-│   ├── chat/                 #   Omnichannel live chat (Chatwoot)
-│   ├── scoring/              #   Lead scoring engine (Mautic)
-│   └── page-builder/         #   Drag-and-drop landing pages (GrapesJS)
-├── nebulas-experiments/      # A/B testing (GrowthBook)
+│   ├── journey/              #   Customer journey builder
+│   ├── mailer/               #   High-performance email engine (Go)
+│   ├── chat/                 #   Omnichannel live chat
+│   ├── scoring/              #   Lead scoring engine
+│   └── page-builder/         #   Drag-and-drop landing pages
+├── nebulas-experiments/      # A/B testing + feature flags
 ├── nebulas-voip/             # Video + AI voice
-├── nebulas-privacy/          # GDPR/CCPA compliance (Klaro.js)
+├── nebulas-privacy/          # GDPR/CCPA compliance
 ├── nebulas-i18n/             # 50+ languages + 135 currencies
 │   └── locales/              #   Language packs (en/zh/ja/es/ar/...)
 ├── nebulas-infra/            # Infrastructure
 │   ├── core/                 #   Docker Compose + auto-setup scripts
-│   ├── workflow-engine/      #   Visual workflow builder (n8n-based)
-│   └── analytics/            #   BI dashboards (Metabase)
+│   ├── workflow-engine/      #   Visual workflow builder
+│   └── analytics/            #   BI dashboards
 ├── nebulas-dashboard/        # Unified login portal + PWA
 ├── nebulas-plugins/          # Social CRM plugins
 │   ├── whatsapp-crm/         #   WhatsApp Business integration
@@ -190,9 +190,6 @@ nebulas-overseas-sales/
 │   ├── telegram-crm/         #   Telegram bot CRM
 │   └── line-crm/             #   LINE Official Account CRM
 ├── nebulas-extensions/       # ERP & HR modules
-│   ├── dolibarr/             #   Dolibarr ERP integration
-│   ├── erpnext/              #   ERPNext modules
-│   └── frappe/               #   Frappe framework
 └── docker-compose.yml        # Unified orchestration (profiles)
 ```
 
